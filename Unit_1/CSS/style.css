@@ -1,8 +1,14 @@
-body
-{background: #E6F3FF}
-h1{color: #0b0d0f;}
-h6{color: #2C323A;}
-p {color:#16191D;}
-
-
-
+body{
+    background: #E6F3FF;
+    font-size:16px;
+    font-family:times, georgia, serif;
+}
+h1{
+    color: #0b0d0f;
+}
+a {
+    color: #2C323A;
+}
+p {
+    color:#16191D;
+}
