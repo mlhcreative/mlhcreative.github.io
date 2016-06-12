@@ -1,0 +1,41 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	color:#16191D;
+	font-family: helvetica, arial, sans-serif;
+	font-size:16px;
+	line-height:1.25;
+}
+section #splash {
+	background-image: url("../images/Sculpturebysea.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 85vh;
+	padding: 10em 0 0;
+}
+h1	{
+	color:#0B0D0F; 
+	font-weight: bold;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+h2 {
+	font-size: 1.5em;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+nav a{
+ 	color: #16191D;
+ 	text-decoration: none;
+ }
+ menu{
+ 	text-align: center;
+ }
+.cta {
+	background:#16191d;
+	color:#fff;
+	display:inline-block;
+	padding:1em 2em;
+	text-decoration:none;
+}
+
+
