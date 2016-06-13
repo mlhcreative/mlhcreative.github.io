@@ -5,30 +5,14 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	font-size:16px;
 	line-height:1.25;
-}
-<<<<<<< HEAD
-header.logo { 
-	text-align: left;
-}
- menu{
- 	text-align: right;
- }
-=======
->>>>>>> origin/master
-section#splash {
 	background-image: url("../images/Sculpturebysea.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 130vh;
-	padding: 10em 0 0;
-	text-align: center;
+	height: 80vh;
+	padding: 30em 0 0;
 }
-.cta {
-	background:#000000;
-	color:#E6F3FF;
-	display:inline-block;
-	padding:1em 2em;
-	text-decoration:none;
+header { 
+	text-align: center;
 }
 h1	{
 	color:#0B0D0F; 
@@ -44,7 +28,18 @@ h2 {
 nav a{
  	color: #16191D;
  	text-decoration: none;
- 
-
-
+ }
+ menu{
+ 	text-align: center;
+ }
+.cta {
+	background:#E6F3FF;
+	color:#0B0D0F;
+	display:inline-block;
+	padding:1em 2em;
+	text-decoration:none;
+}
+img {
+	align-items: center;
+}
 
