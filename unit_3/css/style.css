@@ -5,7 +5,7 @@ body {
 	font-size:16px;
 	line-height:1.25;
 }
-section #splash {
+section#splash {
 	background-image: url("../images/Sculpturebysea.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
