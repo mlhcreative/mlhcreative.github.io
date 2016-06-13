@@ -6,24 +6,18 @@ body {
 	font-size:16px;
 	line-height:1.25;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 header.logo { 
 	text-align: left;
 }
  menu{
  	text-align: right;
  }
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
 section#splash {
 	background-image: url("../images/Sculpturebysea.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 130vh;
-	padding: 10em 0 0;
+	padding: 18em 0 0;
 	text-align: center;
 }
 .cta {
