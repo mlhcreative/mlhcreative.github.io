@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+@import url(https://fonts.googleapis.com/css?family=Source Serif Pro:400);
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background: #E6F3FF;
+	color:#16191D;
+	font-family: 'Source Serif Pro', serif;	
+	letter-spacing: -0.025em;
+	word-spacing: 0.041em;
+	line-height: 1.25em;
+	font-size:16px;
+}
+header.logo { 
+	text-align: left;	
+	font-family: 'Raleway', sans-serif;
+}
+ menu{
+ 	text-align: right;
+ 	font-family:'Raleway', sans-serif;	
+ }
+section#splash {
+	background-image: url("../images/Sculpturebysea.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 130vh;
+	padding: 18em 0 0;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;	
+	line-height: 1.5;
+}
+.cta {
+	background:#000000;
+	color:#E6F3FF;
+	display:inline-block;
+	padding:1em 2em;
+	text-decoration:none;
+}
+h1	{
+	color:#0B0D0F; 
+	font-weight: thin;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+h2{
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-family: 'Raleway:600', sans-serif;	
+	line-height: 1.5em;
+	font-weight: bold;
+}
+nav a, footer, #contact {
+ 	color: #16191D;
+ 	text-decoration: none;
+ 	font-family: 'Roboto', sans-serif;
+}
+#social-icon{
+	margin: 1.5em 0 0; 
+ 	line-height: 1.5em; 
+}
+
+
+
+
+
