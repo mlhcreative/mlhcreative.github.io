@@ -12,15 +12,15 @@ body {
 	line-height: 1.25em;
 	font-size:16px;
 }
-header.logo { 
-	text-align: left;	
-	font-family: 'Raleway', sans-serif;
-	word-spacing: 0.051em;
-}
  menu{
  	text-align: right;
  	font-family:'Raleway', sans-serif;	
  }
+ header.logo { 
+	text-align: left;	
+	font-family: 'Raleway', sans-serif;
+	word-spacing: 0.051em;
+}
 section#splash {
 	background-image: url("../images/Sculpturebysea.jpg");
 	background-size: cover;
@@ -47,21 +47,26 @@ h1	{
 	font-size: 2em;
 	text-transform: uppercase;
 }
-h2{
+h2.sectionhead {
 	font-size: 1.5em;
 	text-transform: uppercase;
-	font-family: 'Raleway:600', sans-serif;	
-	line-height: 1.5em;
+	font-family: 'Raleway', sans-serif;	
 	font-weight: bold;
+	line-height: 1.5em;
+h3 {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-family: 'Source Serif Pro', serif;	
+	font-weight: bold;
+	line-height: 1.5em;
+
+}
 }
 nav a, footer, #contact {
  	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
  	text-align: center;
-}
-#social-icon{
-	images: url("../images/twitter logo.png");
 }
 
 
