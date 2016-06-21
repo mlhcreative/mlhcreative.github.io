@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:100);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100);
 @import url(https://fonts.googleapis.com/css?family=Source Serif Pro:400);
-@import url(https://fonts.googleapis.com/css?family=Bad+Script);
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background: #E6F3FF;
@@ -31,9 +30,6 @@ section#splash {
 	font-family: 'Raleway', sans-serif;	
 	line-height: 1.5;
 }
-section #slogan{
-	font-family:'Bad Script', cursive;
-}
 .cta {
 	background:#000000;
 	color:#E6F3FF;
@@ -59,7 +55,6 @@ h3 {
 	font-family: 'Source Serif Pro', serif;	
 	font-weight: bold;
 	line-height: 1.5em;
-
 }
 }
 nav a, footer, #contact {
