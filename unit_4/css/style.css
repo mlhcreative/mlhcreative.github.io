@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:100);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100);
 @import url(https://fonts.googleapis.com/css?family=Source Serif Pro:400);
+@import url(https://fonts.googleapis.com/css?family=Bad+Script);
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background: #E6F3FF;
@@ -12,8 +13,6 @@ body {
 	font-size:16px;
 }
 header.logo { 
-	images: url("..//images/mhl.jpg");
-	padding: 1.5em 0 0;
 	text-align: left;	
 	font-family: 'Raleway', sans-serif;
 	word-spacing: 0.051em;
@@ -31,6 +30,9 @@ section#splash {
 	text-align: center;
 	font-family: 'Raleway', sans-serif;	
 	line-height: 1.5;
+}
+section #slogan{
+	font-family:'Bad Script', cursive;
 }
 .cta {
 	background:#000000;
@@ -56,6 +58,7 @@ nav a, footer, #contact {
  	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
+ 	text-align: center;
 }
 #social-icon{
 	images: url("../images/twitter logo.png");
