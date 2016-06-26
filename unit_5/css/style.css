@@ -1,14 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:100);
-@import url(https://fonts.googleapis.com/css?family=Roboto:100);
-@import url(https://fonts.googleapis.com/css?family=Source Serif Pro:400);
-* { margin:0; padding:0; box-sizing:border-box; border: box}
+@import url(https://fonts.googleapis.com/css?family=Raleway:900,400,100);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
+* { margin:0; padding:0; box-sizing:border-box; border: box; border-style: solid; border-color: #000;}
 body {
 	background: #E6F3FF;
 	color:#16191D;
 	font-family: 'Source Serif Pro', serif;	
-	letter-spacing: -0.025em;
-	word-spacing: 0.041em;
-	line-height: 1.25em;
+	letter-spacing: -0.025;
+	word-spacing: 0.041;
+	line-height: 1.25;
 	font-size:16px;
 }
  menu{
@@ -24,10 +24,11 @@ section#splash {
 	background-image: url("../images/Sculpturebysea.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 130vh;
+	height: 100vh;
 	padding: 18em 0 0;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;	
+	font-weight: 100;
 	line-height: 1.5;
 }
 .cta {
@@ -39,7 +40,7 @@ section#splash {
 }
 h1	{
 	color:#0B0D0F; 
-	font-weight: thin;
+	font-weight: 100;
 	font-size: 2em;
 	text-transform: uppercase;
 }
@@ -47,20 +48,25 @@ h2.sectionhead {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;	
-	font-weight: bold;
+	font-weight: 900;
 	line-height: 1.5em;
 h3 {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	font-family: 'Source Serif Pro', serif;	
-	font-weight: bold;
+	font-weight: 400;
 	line-height: 1.5em;
 }
+.design, .photograpy, .copy, .Digital {
+	display: block;
+	text-decoration: none;
 }
-nav a, footer, #contact {
+}
+nav a, footer, #footer, #contact{
  	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
+ 	font-weight: 100;
  	text-align: center;
 }
 
