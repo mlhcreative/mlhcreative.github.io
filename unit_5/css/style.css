@@ -11,6 +11,11 @@ body {
 	line-height: 1.25;
 	font-size:16px;
 }
+header {
+	background-color:#FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
  menu{
  	text-align: right;
  	font-family:'Raleway', sans-serif;	
@@ -44,6 +49,16 @@ h1	{
 	font-size: 2em;
 	text-transform: uppercase;
 }
+article {
+	background-color:#E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+div, section {
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
 h2.sectionhead {
 	font-size: 1.5em;
 	text-transform: uppercase;
@@ -61,15 +76,18 @@ h3 {
 	display: block;
 	text-decoration: none;
 }
-}
-nav a, footer, #footer, #contact{
+nav, footer, #footer, #contact {
  	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
  	font-weight: 100;
  	text-align: center;
-}
-
+ }
+ footer {
+ 	background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+ }
 
 
 
