@@ -59,35 +59,52 @@ div, section {
     border: 1px black solid;
     padding: 20px;
 }
+aside{
+	background-color:#FFC675;
+    border: 1px black solid;
+    padding: 20px;
+   }
+footer {
+ 	background-color:#FF957E;
+    border: 1px black solid;
+    padding: 20px;
+ }
+nav {
+	background-color:#E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+h3 {
+	font-size: 1.25em;
+	text-transform: uppercase;
+	font-family: 'Source Serif Pro', 700 serif;	
+	line-height: 1.5em;
+}
 h2.sectionhead {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 900;
 	line-height: 1.5em;
-h3 {
-	font-size: 1.5em;
-	text-transform: uppercase;
-	font-family: 'Source Serif Pro', serif;	
-	font-weight: 400;
-	line-height: 1.5em;
 }
-.design, .photograpy, .copy, .Digital {
-	display: block;
-	text-decoration: none;
+header .main-menu {
+	color: #16191D;
+ 	text-decoration: none;
+ 	font-family: 'Roboto', sans-serif;
+ 	text-align: right;
 }
-nav, footer, #footer, #contact {
+footer, #footer, #contact {
  	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
- 	font-weight: 100;
  	text-align: center;
- }
- footer {
- 	background-color: [enter color here];
-    border: 1px black solid;
-    padding: 20px;
- }
+}
+nav .design, .photograpy, .copy, .Digital {
+	display: block;
+	text-decoration: none;
+}
+
+ 
 
 
 
