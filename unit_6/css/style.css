@@ -16,12 +16,14 @@ header {
     border: 1px black solid;
     padding: 20px;
 }
+ menu{
+ 	text-align: right;
+ 	font-family:'Raleway', sans-serif;	
+ }
  header.logo { 
-	display: block;
-	float:left;
-	padding: 2em;
-	width: 33%;
-	clear:both;
+	text-align: left;	
+	font-family: 'Raleway', sans-serif;
+	word-spacing: 0.051em;
 }
 section#splash {
 	background-image: url("../images/Sculpturebysea.jpg");
@@ -33,7 +35,6 @@ section#splash {
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
 	line-height: 1.5;
-	display:block;
 }
 .cta {
 	background:#000000;
@@ -61,12 +62,8 @@ div, section {
 aside{
 	background-color:#FFC675;
     border: 1px black solid;
-    padding: 2%;
-    width: 50%;
-    height: 10em;
-    overflow: auto;
-    float: right;
-}
+    padding: 20px;
+   }
 footer {
  	background-color:#FF957E;
     border: 1px black solid;
@@ -75,9 +72,7 @@ footer {
 nav {
 	background-color:#E8C66A;
     border: 1px black solid;
-    display:block;
-    padding: 1.8em;
-    width: 33%;
+    padding: 20px;
 }
 h3 {
 	font-size: 1.25em;
@@ -92,53 +87,62 @@ h2.sectionhead {
 	font-weight: 900;
 	line-height: 1.5em;
 }
-.main-menu {
+header .main-menu {
 	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
- 	font-weight: 100;
- 	float:right;
  	text-align: right;
- 	text-decoration: none;
- 	padding: 2%;
- 	width: 33%;
- 	clear: both;
 }
 footer, #footer, #contact {
  	color: #16191D;
  	text-decoration: none;
  	font-family: 'Roboto', sans-serif;
  	text-align: center;
- 	padding: 2%;
- 	width: 33%;
 }
 nav .design, .photograpy, .copy, .Digital {
 	display: block;
 	text-decoration: none;
 }
- #services{
- 	display: block;
- 	float:left;
- 	padding: 2%;
- 	height:10em;
- 	width: 50%;
- 	clear: both;
-}
-#all-services{
+main{
 	display: block;
-	float:right;
+	padding: 2%
+}
+#portfolios:hover, #p1, #p2, #p3, #p4{
+	background-color: #FFF;
+	color:#E6F3FF;
+	display: block;
+	float: left;
+	width:25%;
+	padding: 2%;
+	text-decoration: none;
+}
+#blog {
+	display: block;
+	float: right;
+	width: 50%;
+	height: 30em
+	padding: 5%
+}
+.blog-articles {
+	display: block;
+	width: 50%;
+	height: 30em;
+}
+#blog1, #blog2, #blog3{
+	background: #FFF;
+	display:block;
+	float: left;
+	border: 1px black solid;
+	padding: 5%
 	width:50%;
 }
-li {
-	padding: 2%;
-	width: 50%;
-	height: 6em
-	line-height:6em;
-	color:#000;
-	background: #fff;
-	overflow: auto;
-	outline: solid;
-	clear: both;
+#blog4, #blog5, #blog6 {
+	background: #FFF;
+	display: block;
+	float: left;
+	border: 1px black solid;
+	padding: 5%
+	width:50%;
 }
 .clearfix:after {
     visibility: hidden;
@@ -148,3 +152,8 @@ li {
     clear: both;
     height: 0;
 }
+ 
+
+
+
+
