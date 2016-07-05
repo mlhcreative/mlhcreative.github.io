@@ -107,42 +107,32 @@ main{
 	display: block;
 	padding: 2%
 }
-#portfolios:hover, #p1, #p2, #p3, #p4{
+#portfolios{
 	background-color: #FFF;
 	color:#E6F3FF;
-	display: block;
-	float: left;
-	width:25%;
-	padding: 2%;
 	text-decoration: none;
-}
-#blog {
-	display: block;
-	float: right;
-	width: 50%;
-	height: 30em
-	padding: 5%
-}
-.blog-articles {
-	display: block;
-	width: 50%;
-	height: 30em;
-}
-#blog1, #blog2, #blog3{
-	background: #FFF;
-	display:block;
-	float: left;
-	border: 1px black solid;
-	padding: 5%
-	width:50%;
-}
-#blog4, #blog5, #blog6 {
-	background: #FFF;
 	display: block;
 	float: left;
-	border: 1px black solid;
-	padding: 5%
-	width:50%;
+	padding: 2%;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 60%;
+}
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 30%;
 }
 .clearfix:after {
     visibility: hidden;
