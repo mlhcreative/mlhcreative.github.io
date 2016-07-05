@@ -63,7 +63,7 @@ aside{
 	background-color:#FFC675;
     border: 1px black solid;
     padding: 20px;
-   }
+}
 footer {
  	background-color:#FF957E;
     border: 1px black solid;
@@ -107,7 +107,15 @@ nav .design, .photograpy, .copy, .Digital {
 	display: block;
 	text-decoration: none;
 }
-#two-column {
+figure {
+	background-color: #FFF;
+	border: 1px black solid;
+	display: block;
+	float: left;
+	padding: 2%;
+	width: 46%;
+}
+#two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
