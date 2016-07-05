@@ -2,6 +2,14 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
 * { margin:0; padding:0; box-sizing:border-box; border: box; border-style: solid; border-color: #000;}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
 body {
 	background: #E6F3FF;
 	color:#16191D;
@@ -48,11 +56,6 @@ h1	{
 	font-weight: 100;
 	font-size: 2em;
 	text-transform: uppercase;
-}
-article {
-	background-color:#E89C6C;
-    border: 1 black solid;
-    padding: 20;
 }
 div, section {
     background-color:#FFE2B8;
@@ -108,15 +111,17 @@ nav .design, .photograpy, .copy, .Digital {
 	text-decoration: none;
 }
 figure {
-	background-color: #FFF;
+	background-color: #E6F3FF;
 	border: 1px black solid;
 	display: block;
 	float: left;
+	text-align: center;
 	padding: 2%;
 	width: 46%;
 }
 #two_column {
     background-color: #FFB7CF;
+    background-size: cover;
     border: 1px black solid;
     padding: 20px;
 }
@@ -125,7 +130,7 @@ figure {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 60%;
+    width: 68%;
 }
 #right {
     background-color: #E55B88;
@@ -134,14 +139,7 @@ figure {
     float: right;   
     width: 30%;
 }
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
+
  
 
 
