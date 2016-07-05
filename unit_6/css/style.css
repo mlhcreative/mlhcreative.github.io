@@ -80,6 +80,10 @@ h3 {
 	font-family: 'Source Serif Pro', 700 serif;	
 	line-height: 1.5em;
 }
+main{
+	display: block;
+	padding: 2%
+}
 h2.sectionhead {
 	font-size: 1.5em;
 	text-transform: uppercase;
@@ -103,19 +107,7 @@ nav .design, .photograpy, .copy, .Digital {
 	display: block;
 	text-decoration: none;
 }
-main{
-	display: block;
-	padding: 2%
-}
-#portfolios{
-	background-color: #FFF;
-	color:#E6F3FF;
-	text-decoration: none;
-	display: block;
-	float: left;
-	padding: 2%;
-}
-#two_column {
+#two-column {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
