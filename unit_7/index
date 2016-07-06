@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> M.L.H C.D.S</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header class="clearfix">
+		<img src="images/MLHCDS.png" alt="MLHCDS logo" class="logo">
+		<nav class="main-menu">
+			<a href="#">About Us</a>
+			<a href="#">Why Us</a>
+			<a href="#">Portfolio</a>
+			<a href="#">Blog</a>
+			<a href="#">Contact Us</a>
+		</nav>
+	</header>
+	<section id="splash">
+		<h1>A creative design solutions hub<br>for your business.</h1>
+		<a href="#" class="cta">Help has arrived</a>
+	</section>
+	<section>
+		<p>Our team offers creative services to clients worldwide wherever they are from wherever we are.</p>
+	</section>
+	<section id="about">
+		<h2>About Us</h2>
+		<p>We are a flexible outsourcing resource company. Founded in 2016, we offer a variety of services from marketing to photography for small businesses, businesses that are time poor or that just require an extra helping hand for all the little jobs. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt inculpa qui officia deserunt mollit anim id est laborum.</p>
+	</section>
+	<section id="Why Us">
+		<h2>Why Us</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</section>
+	<section id="portfolio">
+		<h2>Portfolio</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu funulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</section>
+	<nav id="ports">
+		<a href="#design">Design</a>
+		<a href="#photography">Photography</a>
+		<a href="#copy">Copy</a>
+		<a href="#digital">Digital</a>
+	</nav>
+	<section id="our-services">
+		<h2>Our Services</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duisauirure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</section>
+	<section>
+		<section id="design">
+			<h3>Design</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugianulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</section>
+		<section id="photography">
+			<h3>Photography</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonvproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</section>
+		<section id="copy">
+			<h3>Copy</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonvproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</section>
+		<section id="digital">
+			<h3>Digital</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonvproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</section>
+	</section>
+	<section id="two-columns" class="clearfix">
+		<section id="left">
+			<h2>Blog</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonvproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</section>
+		<section id="right">
+			<figure>
+				<a href="#" target="_blank"><img src="images/remote.jpg" alt="link to blog post Issue 1." class="blog-pic"></a><p>Issue 1.</p>
+			</figure>
+			<figure>
+				<a href="#" target="_blank"><img src="images/component.jpg" alt="link to blog post Issue 2." class="blog-pic"></a><p>Issue 2.</p>
+			</figure>
+			<figure>
+				<a href="#" target="_blank"><img src="images/create.jpg" alt="link to blog post Issue 3." class="blog-pic"></a><p>Issue 3.</p>
+			</figure>
+			<figure>
+				<a href="#" target="_blank"><img src="images/creativehand.jpg" alt="link to blog post Issue 4." class="blog-pic"></a><p>Issue 4.</p>
+			</figure>
+		</section>
+	</section>	
+	</section>
+	<section id="community">
+		<h2>Community</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonvproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</section>
+	<section id="contact-us">
+		<h2>Contact Us</h2>
+		<p>For all enquiries please contact us.</p>
+		<p>M.L.H C.D.S</p>
+		<p>Head Office</p>
+		<p>T. +64 9 344 9768</p>
+		<p>M. +64 21 155 4343</p>
+		<p>E. enquiries@mlhcds.co.nz</p>
+		<p>123 Auckland Street</p>
+		<p>Auckland</p>
+		<p>New Zealand</p>
+	</section>
+	<footer>
+		<nav id="contact">
+			<a href="mailto:monique.louise.hall@gmail.com">Contact Us</a>
+			<a href="#" target="_blank"><img src="images/twitter logo.png" alt="link to MLHCDS Twitter feed" class="social-icon"></a>
+			<a href="#" target="_blank"><img src="images/linkedin logo.png" alt="link to MLHCDS Linkedin page" class="social-icon"></a>
+			<a href="#" target="_blank"><img src="images/facebook logo.png" alt="link to MLHCDS Facebook page" class="social-icon"></a>
+			<a href="#" target="_blank"><img src="images/insta logo.png" alt="link to MLHCDS Instagram feed" class="social-icon"></a>
+		</nav>
+		<nav id="footer">
+			<a href="#">Design</a>|
+			<a href="#">Photography</a>|
+			<a href="#">Copy</a>|
+			<a href="#">Digital</a>|
+		</nav>
+		<div>
+			<p>&copy;2016</p>
+			<address>123 Auckland Street<br>Auckland<br>New Zealand</address>
+		</div>
+	</footer>
+</body>
+</html>
