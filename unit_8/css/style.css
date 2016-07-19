@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:900,400,100);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
-* { margin:0; padding:0; box-sizing:border-box; border: box; border-style: solid; border-color: #000;}
+* { margin:0; padding:0; box-sizing:border-box; border: box; border-style: solid; border-color: #000; width:1060;}
 body {
 	background: #E6F3FF;
 	color:#16191D;
@@ -13,14 +13,15 @@ body {
 }
 header{
 	display: block;
-	border: 1px black solid;
-    padding: 20px;
+	border: 1% black solid;
+    padding: 2%;
+    text-decoration: none;
 }
 .logo{
 	display: block;
-	border: 1px black solid;
+	border: 1% black solid;
 	float: left;
-    padding: 20px;
+    padding: 2%;
 }
 .main-menu{
 	color: #16191D;
@@ -30,7 +31,7 @@ header{
  	text-decoration: none;
 }
 section#splash {
-	background-image: url("../images/Sculpturebysea.jpg");
+	background-image: url("../images/Sculpturebysea.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -39,6 +40,14 @@ section#splash {
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
 	line-height: 1.5;
+}
+#slogan{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;	
+	font-weight: 400;
+	line-height: 1.5em;
+	margin:2%;
+	padding:2%;
 }
 .cta {
 	background:#000000;
@@ -74,17 +83,17 @@ nav{
 	display: block;
 }
 #two-columns{
-	background-color: #FFF;
-	border: 1em black solid;
-	padding: 2em;
+	background-color: #E6F3FF;
+	border: 1% black solid;
+	padding: 2%;
 }
 figure{
 	background-color: #FFF;
 	display: block;
 	float: left;
 	text-align: center;
-	margin:0.5em;
-	padding: 8px;
+	margin:0.5%;
+	padding: 0.8%;
 	width: 45%;
 }
 #left{
@@ -95,11 +104,11 @@ figure{
 #right{
 	background-color: #FFDAB9;
 	float:right;
-	padding:1em;
+	padding:1%;
 	width: 50%;
 }
 section, footer, nav{
-	border: 1px black solid;
+	border: 1% black solid;
 	display: block;
 	padding:2%;
 }
