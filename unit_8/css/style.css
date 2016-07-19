@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:900,400,100);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
+* { margin:0; padding:0; box-sizing:border-box; border: box; border-style: solid; border-color: #000;}
+body {
+	background: #E6F3FF;
+	color:#16191D;
+	font-family: 'Source Serif Pro', serif;	
+	letter-spacing: -0.025;
+	word-spacing: 0.041;
+	line-height: 1.25;
+	font-size:16px;
+}
+header{
+	display: block;
+	border: 1px black solid;
+    padding: 20px;
+}
+.logo{
+	display: block;
+	border: 1px black solid;
+	float: left;
+    padding: 20px;
+}
+.main-menu{
+	color: #16191D;
+ 	font-family: 'Roboto', sans-serif;
+ 	float: right;
+ 	text-align: right;
+ 	text-decoration: none;
+}
+section#splash {
+	background-image: url("../images/Sculpturebysea.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	padding: 18em 0 0;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;	
+	font-weight: 100;
+	line-height: 1.5;
+}
+.cta {
+	background:#000000;
+	color:#E6F3FF;
+	display:inline-block;
+	padding:1em 2em;
+	text-decoration:none;
+}
+h1{
+	font-weight: 100;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+h2{
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;	
+	font-weight: 900;
+	line-height: 1.5em;
+}
+h3{
+	font-size: 1.25em;
+	text-transform: uppercase;
+	font-family: 'Source Serif Pro', serif;	
+	font-weight: 700;
+	line-height: 1.5em;
+}
+nav{
+	font-family:'Roboto', sans-serif;
+	text-decoration: none;
+}
+#ports{
+	display: block;
+}
+#two-columns{
+	background-color: #FFF;
+	border: 1em black solid;
+	padding: 2em;
+}
+figure{
+	background-color: #FFF;
+	display: block;
+	float: left;
+	text-align: center;
+	margin:0.5em;
+	padding: 8px;
+	width: 45%;
+}
+#left{
+	background-color: #FFDAB9;
+	float:left;
+	width: 48%;
+}
+#right{
+	background-color: #FFDAB9;
+	float:right;
+	padding:1em;
+	width: 50%;
+}
+section, footer, nav{
+	border: 1px black solid;
+	display: block;
+	padding:2%;
+}
+footer{
+	text-align: center;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
