@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:900,400,100);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
+*{margin:0; padding:0; box-sizing:border-box; border:box; border-style: solid; border-color:#000;}
+body{
+	background: #FFF;
+	color: #16191D;
+	font-family: 'Source Serif Pro', serif;
+	letter-spacing: -0.025;
+	word-spacing: 0.041;
+	line-height: 1.25;
+	font-size: 16px;
+}
+.logo{
+	border: 1% black solid;
+	display: block;
+	padding: 2%;
+	float:none;
+}
+.main-menu{
+	text-align: right;
+	font-family: 'Raleway', sans-serif;
+}
+section#splash {
+	background-image: url("images/circle_green.png.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	padding: 18em 0 0;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;	
+	font-weight: 100;
+	line-height: 1.5;
+}
+.cta {
+	background:#000000;
+	color:#E6F3FF;
+	display:inline-block;
+	padding:1em 2em;
+	text-decoration:none;
+}
+h1{
+	font-weight: 100;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+section, footer, nav{
+	border: 1px black solid;
+	display: block;
+	padding:2%;
+}
+footer{
+	text-align: center;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+header{
+	background-color: #E6F3FF;
+	display: block;
+	border: 1px black solid;
+    padding: 20px;
+}
+.logo{
+	display: block;
+	border: 1px black solid;
+	float: left;
+	margin:1.5em;
+	padding: 2%;
+}
+nav.main-menu{
+	color: #16191D;
+	display: block;
+ 	font-family: 'Roboto', sans-serif;
+ 	float: right;
+ 	text-align: right;
+ 	text-align: center;
+ 	text-decoration: none;
+	margin:1.5em;
+	padding: 2%;
+	width: 40%;
+}
