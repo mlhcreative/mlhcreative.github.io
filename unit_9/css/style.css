@@ -10,16 +10,30 @@ body{
 	word-spacing: 0.041;
 	line-height: 1.25;
 	font-size: 16px;
+	text-decoration: none;
+}
+header{
+	background-color: #E6F3FF;
+	display: block;
+	border: 1px black solid;
+    padding: 20px;position: fixed;
+  	top:2%;
+  	width:100%;
+  	margin-top: -2.5em;
+  	margin-bottom: -2.5em;
+  	padding: 2% 0 0;
+  	height: 30vh;
 }
 .logo{
 	border: 1% black solid;
 	display: block;
-	padding: 2%;
+	padding: 1%;
 	float:none;
 }
 .main-menu{
-	text-align: right;
 	font-family: 'Raleway', sans-serif;
+	text-align: right;
+	text-decoration: none;
 }
 section#splash {
 	background-image: url("images/circle_green.png.jpg");
@@ -59,13 +73,6 @@ footer{
     content: " ";
     clear: both;
     height: 0;
-}
-
-header{
-	background-color: #E6F3FF;
-	display: block;
-	border: 1px black solid;
-    padding: 20px;
 }
 .logo{
 	display: block;
