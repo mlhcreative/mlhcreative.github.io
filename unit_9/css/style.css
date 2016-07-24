@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:900,400,100);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
-*{margin:0; padding:0; box-sizing:border-box;}
+*{margin:0; padding:0}
 body{
 	background: #FFF;
 	color: #16191D;
@@ -24,7 +24,6 @@ header{
 }
 #logo{
 	display: block;
-	border: 1% black solid;
 	float: left;
     padding: 1%;
 }
@@ -36,15 +35,32 @@ header{
  	float: right;
  	text-decoration: none;
 	margin:1.5em;
-	padding: 7% 0 0 0;
+	padding: 3% 0 1% 0;
 	width: 40%;
 }
-.circles{
+#c-1{
 	position: absolute;
-	top: 10%;
-	margin-left: 30%;
+	top: -15%;
+	margin-left: 5%;
+	z-index: -1;
+}
+#c-2{
+	position: absolute;
+	top: 15%;
+}
+#c-3{
+	position: absolute;
+	top: 27%;
+	margin-left: 15%;
+}
+#c-4{
+	position: absolute;
+	top: 20%;
+	margin-left: 28%;
+	z-index: -2;
 }
 section#splash {
+	display: block;
 	padding: 25% 0 0;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;	
@@ -57,7 +73,7 @@ section#splash {
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 400;
 	line-height: 1.5em;
-	margin:2%;
+	margin:8%;
 	padding:2%;
 }
 .cta {
@@ -92,13 +108,21 @@ nav{
 }
 .page{
 	padding: 2% 30% 2% 30%;
+	width: 40%;
 }
 #ports{
 	padding: 0 30% 0 30%;
-
+}
+figure{
+	background-color: #FFF;
+	display: block;
+	float: left;
+	text-align: center;
+	margin:0.5%;
+	padding: 0.8%;
+	width:10%;
 }
 section, footer, nav{
-	border: 1px black solid;
 	display: block;
 	padding:2%;
 }
