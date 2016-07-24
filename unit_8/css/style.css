@@ -10,7 +10,6 @@ body {
 	word-spacing: 0.041;
 	line-height: 1.25;
 	font-size:16px;
-	text-decoration: none;
 }
 header{
 	display: block;
@@ -29,6 +28,7 @@ header{
  	font-family: 'Roboto', sans-serif;
  	float: right;
  	text-align: right;
+ 	text-decoration: none;
 }
 section#splash {
 	background-image: url("../images/Sculpturebysea.png");
