@@ -18,7 +18,7 @@ header, footer{
 	margin-top: -2.5em;
   	margin-bottom: -2.5em;
   	padding: -2%;
-    position: fixed;
+    	position: fixed;
   	width:100%;
 }
 header{
@@ -67,7 +67,7 @@ section#splash {
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
 	line-height: 1.5;
-	padding: 25% 0 0;
+	padding: 10% 0 0;
 	text-align: center;
 	width: 100%;
 }
