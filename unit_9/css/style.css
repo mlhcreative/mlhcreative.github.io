@@ -53,8 +53,8 @@ header{
 }
 #c-1{
 	background: rgb(254, 233, 214);
-	height:53vw;
-	width: 53vw;
+	height:51vw;
+	width: 51vw;
 	border-radius: 50%;
 	left: 25%;
 	position: absolute;
@@ -113,11 +113,11 @@ section#splash {
 	display: block;
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
-	line-height: 1.8em;
+	line-height: 2em;
 	margin: 2%;
-	padding: 10% 0 0;
+	padding: 5% 0 0;
 	text-align: center;
-	top: 10%:;
+	top: 17%:;
 	width: 100%;
 }
 #slogan{
