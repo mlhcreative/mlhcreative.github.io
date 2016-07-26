@@ -134,22 +134,22 @@ nav{
 	text-decoration: none;
 }
 .page{
-	padding: 15% 30% 25% 30%;
+	padding: 25% 30% 25% 30%;
 	width: 40%;
 }
 .services{
 	display: block;
 	float: left;
-	margin: 0.5% 30% 40% 15%;
+	margin: 0.5% 30% 25% 30%;
 	width: 30%;
 }
 #ports, #our-services{
-	margin:0 0 15% 0;
+	margin:0 0 25% 0;
 	padding: 0 30% 0 30%;
 }
 #portfolio{
 	margin:0;
-	padding: 0 30% 0 30%;
+	padding: 0 30% 25% 30%;
 }
 figure{
 	display: block;
@@ -160,7 +160,6 @@ figure{
 	width:45%;
 }
 #contact-us{
-	margin-top:25%;
 	margin-bottom: 5%;
 }
 footer{
