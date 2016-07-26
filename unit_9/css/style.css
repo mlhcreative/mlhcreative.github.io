@@ -63,9 +63,9 @@ header{
 	z-index: -3;
 }
 #c-3{
-	margin-left:71%;
+	margin-left:65%;
 	position: absolute;
-	top:150%;
+	top:480%;
 	z-index: -1;
 }
 #c-4{
@@ -173,10 +173,10 @@ section, footer, nav{
 	text-align: center;
 }
 .clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
+	visibility: hidden;
+    	display: block;
+    	font-size: 0;
+    	content: " ";
+    	clear: both;
+    	height: 0;
 }
