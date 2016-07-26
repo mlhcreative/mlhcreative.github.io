@@ -121,15 +121,15 @@ nav{
 	font-family:'Roboto', sans-serif;
 	text-decoration: none;
 }
+.page{
+	padding: 15% 30% 15% 30%;
+	width: 40%;
+}
 .services{
 	display: block;
 	float: left;
 	margin: 0.5% 30% 28% 15%;
 	width: 30%;
-}
-.page{
-	padding: 15% 30% 15% 30%;
-	width: 40%;
 }
 #ports{
 	padding: 0 30% 0 30%;
