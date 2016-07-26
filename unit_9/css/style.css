@@ -39,7 +39,7 @@ header{
 	width: 40%;
 }
 #c-1{
-	margin-left: -8%;
+	margin-left: -30%;
 	position: absolute;
 	top: 8%;
 	z-index: -2;
@@ -68,7 +68,7 @@ section#splash {
 	font-weight: 100;
 	line-height: 1.5;
 	margin: 2%;
-	padding: 10% 15% 8% 15%;
+	padding: 15% 0% 8% 15%;
 	text-align: center;
 	width: 100%;
 }
