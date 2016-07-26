@@ -57,9 +57,9 @@ header{
 	height:50vw;
 	width: 50vw;
 	border-radius: 50%;
-	left: 5%;
+	left: 2%;
 	position: absolute;
-	top: 5%;
+	top: 2%;
 	z-index: -2;
 }
 #c-1a{
@@ -114,10 +114,9 @@ section#splash {
 	display: block;
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
-	left:5%;
 	line-height: 2em;
-	margin: 10%;
-	padding: 20% 0 0;
+	margin: 10% 0 0 0;
+	padding: 15% 0 0;
 	text-align: center;
 	width: 100%;
 }
