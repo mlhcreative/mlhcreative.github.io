@@ -57,9 +57,9 @@ header{
 	height:50vw;
 	width: 50vw;
 	border-radius: 50%;
-	left: 22%;
+	left: 18%;
 	position: absolute;
-	top: 23%;
+	top: 18%;
 	z-index: -2;
 }
 #c-1a{
@@ -69,9 +69,9 @@ header{
 	z-index: -4;
 }
 #c-2{
-	left: -24%;
+	left: -22%;
 	position: absolute;
-	top: -30%;
+	top: -25%;
 	z-index: -3;
 }
 #c-2a{
