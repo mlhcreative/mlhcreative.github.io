@@ -38,6 +38,12 @@ header{
 	text-align: right;
 	width: 40%;
 }
+#c-0{
+	margin-left: 12%;
+	position: absolute;
+	top: 750%;
+	z-index: -3;
+}
 #c-1{
 	margin-left: 11%;
 	position: absolute;
@@ -51,9 +57,9 @@ header{
 	z-index: -3;
 }
 #c-2a{
-	margin-left: -7%;
+	margin-left: 17%;
 	position: absolute;
-	top: 90%;
+	top: 810%;
 	z-index: -3;
 }
 #c-3{
