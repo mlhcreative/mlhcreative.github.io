@@ -137,8 +137,11 @@ nav{
 	padding: 0% 30% 25% 30%;
 	width: 40%;
 }
-#about, #portfolio{
+#about{
 	padding-top:25%;
+}
+#portfolio{
+	padding-bottom:0%;
 }
 .services{
 	display: block;
