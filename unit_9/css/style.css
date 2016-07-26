@@ -137,6 +137,9 @@ nav{
 	padding: 15% 30% 15% 30%;
 	width: 40%;
 }
+#our-services{
+	margin-bottom:2%;
+}
 .services{
 	display: block;
 	float: left;
