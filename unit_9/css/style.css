@@ -6,101 +6,96 @@ body{
 	background: #FFF;
 	color: #16191D;
 	font-family: 'Source Serif Pro', serif;
+	font-size: 16px;
 	letter-spacing: -0.025;
 	word-spacing: 0.041;
 	line-height: 1.25;
-	font-size: 16px;
 	text-decoration: none;
 }
 header{
-	background-color: #E6F3FF;
+	background: #E6F3FF;
 	display: block;
+	margin-top: -2.5em;
+  	margin-bottom: -2.5em;
+  	padding: 1% 0 0 0;
     position: fixed;
   	top:2%;
   	width:100%;
-  	margin-top: -2.5em;
-  	margin-bottom: -2.5em;
-  	padding: 1% 0 0 0;
 }
 #logo{
-	display: block;
 	float: left;
     padding: 1%;
 }
 .main-menu{
 	color: #16191D;
+	float: right;
  	font-family: 'Roboto', sans-serif;
-	text-align: right;
-	text-decoration: none;
- 	float: right;
- 	text-decoration: none;
-	margin:1.5em;
+ 	margin:1.5em;
 	padding: 3% 0 1% 0;
+	text-align: right;
 	width: 40%;
 }
 #c-0{
+	margin-left: 13%;
 	position: absolute;
 	top: 87%;
-	margin-left: 13%;
 	z-index: -1;
 }
 #c-1{
+	margin-left: -7%;
 	position: absolute;
 	top: -35%;
-	margin-left: -7%;
 	z-index: -3;
 }
 #c-2{
+	margin-left: 85%;
 	position: absolute;
 	top: 40%;
-	margin-left: 85%;
 	z-index: -3;
 }
 #c-3{
+	margin-left: 85%;
 	position: absolute;
 	top: 30%;
-	margin-left: 85%;
 }
 #c-3-1{
+	margin-left:71%;
 	position: absolute;
 	top: 125%;
-	margin-left:71%;
 	z-index: -1;
 }
 #c-4{
+	margin-left: -4%;
 	position: absolute;
 	top: 45%;
-	margin-left: -4%;
 	z-index: -3;
 }
 #c-5{
+	margin-left: 17%;
 	position: absolute;
 	top: 18%;
-	margin-left: 17%;
 	z-index: -2;
 }
 section#splash {
 	display: block;
-	padding: 25% 0 0;
-	text-align: center;
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
 	line-height: 1.5;
+	padding: 25% 0 0;
+	text-align: center;
 	width: 100%;
 }
 #slogan{
-	text-align: center;
-	font-family: 'Raleway', sans-serif;	
 	font-weight: 400;
-	line-height: 1.5em;
 	margin:8%;
 	padding:2%;
+	text-align: center;
 }
 .cta {
 	background:#000000;
 	color:#E6F3FF;
 	display:inline-block;
-	padding:1em 2em;
+	padding:1% 2%;
 	text-decoration:none;
 }
 h1{
@@ -109,11 +104,11 @@ h1{
 	text-transform: uppercase;
 }
 h2{
-	font-size: 1.5em;
-	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;	
+	font-size: 1.5em;
 	font-weight: 900;
 	line-height: 1.5em;
+	text-transform: uppercase;
 }
 h3{
 	font-size: 1.25em;
@@ -129,9 +124,9 @@ nav{
 .services{
 	display: block;
 	float: left;
-	width: 20%;
 	margin-left: 28%;
 	margin-right: 30%;
+	width: 20%;
 }
 .page{
 	padding: 2% 30% 2% 30%;
@@ -144,31 +139,31 @@ figure{
 	background-color: #FFF;
 	display: block;
 	float: left;
-	text-align: center;
-	left: 24%;
+	left: 20%;
 	margin:0.5%;
 	padding: 0.8%;
-	position: relative;
+	text-align: center;
 	width:10%;
 }
 footer{
 	background-color: #FFF;
 	display: block;
-    position: fixed;
-  	top:77%;
-  	width:100%;
-  	margin-top: -2.5em;
+    margin-top: -2.5em;
   	margin-bottom: -2.5em;
   	padding: 0;
+  	position: fixed;
+  	top:77%;
+  	width:100%;
 }
 section, footer, nav{
 	display: block;
 	padding:2%;
 }
 #footer-nav, #contact, #address{
-	text-align: center;
-	margin: 0.5%;
+	margin-bottom: 0.5%;
+	margin-top: 0%;
 	padding: 0.5%;
+	text-align: center;
 }
 .clearfix:after {
     visibility: hidden;
