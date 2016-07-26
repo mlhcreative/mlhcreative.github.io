@@ -58,7 +58,7 @@ header{
 	border-radius: 50%;
 	left: 25%;
 	position: absolute;
-	top: 12%;
+	top: 15%;
 	z-index: -2;
 }
 #c-1a{
@@ -113,7 +113,7 @@ section#splash {
 	display: block;
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
-	line-height: 1.5em;
+	line-height: 1.8em;
 	margin: 2%;
 	padding: 20% 0 0;
 	text-align: center;
