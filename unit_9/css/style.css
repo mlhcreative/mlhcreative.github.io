@@ -112,8 +112,8 @@ nav{
 .services{
 	display: block;
 	float: left;
-	margin: 0.5% 30% 28%;
-	width: 40%;
+	margin: 0.5% 30% 28% 15%;
+	width: 20%;
 }
 .page{
 	padding: 15% 30% 15% 30%;
