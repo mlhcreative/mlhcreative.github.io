@@ -75,15 +75,15 @@ header{
 	z-index: -4;
 }
 #c-4a{
-	margin-left:-18%;
-	position: absolute;
-	top: 505%;
-	z-index: -4;
-}
-#c-5{
 	margin-left:76%;
 	position: absolute;
 	top: 555%;
+	z-index: -4;
+}
+#c-5{
+	margin-left:-18%;
+	position: absolute;
+	top: 505%;
 	z-index: -4;
 }
 section#splash {
