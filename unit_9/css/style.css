@@ -39,9 +39,9 @@ header{
 	width: 40%;
 }
 #c-0{
-	margin-left: -20%;
+	margin-left: -30%;
 	position: absolute;
-	top: 710%;
+	top: 750%;
 	z-index: -2;
 }
 #c-1{
@@ -59,13 +59,13 @@ header{
 #c-2a{
 	margin-left: 17%;
 	position: absolute;
-	top: 750%;
+	top: 770%;
 	z-index: -3;
 }
 #c-3{
 	margin-left:71%;
 	position: absolute;
-	top:130%;
+	top:150%;
 	z-index: -1;
 }
 #c-4{
