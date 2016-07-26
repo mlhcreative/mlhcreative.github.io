@@ -144,8 +144,9 @@ figure{
 	display: block;
 	float: left;
 	margin:0.5%;
-	padding:1%;
+	padding:0.8%;
 	text-align: center;
+	width:45%;
 }
 #contact-us{
 	margin-top:25%;
