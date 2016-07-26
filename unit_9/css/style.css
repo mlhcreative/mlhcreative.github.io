@@ -39,7 +39,7 @@ header{
 	width: 40%;
 }
 #c-1{
-	margin-left:40%;
+	margin-left:-40%;
 	position: absolute;
 	top: 2%;
 	z-index: -2;
@@ -67,6 +67,7 @@ section#splash {
 	font-family: 'Raleway', sans-serif;	
 	font-weight: 100;
 	line-height: 1.5;
+	margin:2% 0 0 10%;
 	padding: 10% 0 0;
 	text-align: center;
 	width: 100%;
