@@ -50,6 +50,12 @@ header{
 	top: -30%;
 	z-index: -3;
 }
+#c-2a{
+	margin-left: -7%;
+	position: absolute;
+	top: 90%;
+	z-index: -3;
+}
 #c-3{
 	margin-left:71%;
 	position: absolute;
