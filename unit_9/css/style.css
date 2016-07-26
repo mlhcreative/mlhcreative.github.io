@@ -135,14 +135,14 @@ figure{
 }
 footer{
   	background: #fff;
-  	top:77%;
+  	top:73%;
 }
 section, footer, nav{
 	display: block;
 	padding:2%;
 }
 .footer-nav, #contact, #address{
-	margin-bottom: 0.5%;
+	margin-bottom: 0.5% ;
 	margin-top: 0%;
 	padding: 0%;
 	text-align: center;
