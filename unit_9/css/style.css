@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
 *{margin:0; padding:0}
 body{
-	background: #FFF;
+	background: rgb(202, 218, 252);
 	color: #16191D;
 	font-family: 'Source Serif Pro', serif;
 	font-size: 16px;
