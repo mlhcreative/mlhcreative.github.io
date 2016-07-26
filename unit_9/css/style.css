@@ -141,7 +141,8 @@ nav{
 	padding-top:25%;
 }
 #portfolio{
-	padding-bottom:0%;
+	margin: 0%;
+	padding-bottom:0% 30% 0% 30%;
 }
 .services{
 	display: block;
@@ -149,13 +150,9 @@ nav{
 	margin: 0.5% 30% 25% 30%;
 	width: 30%;
 }
-#portfolio{
-	margin:0;
-	padding: 0 30% 25% 30%;
-}
 #ports, #our-services{
 	margin:0;
-	padding: 0 30% 0 30%;
+	padding: 0 30% 25% 30%;
 }
 figure{
 	display: block;
