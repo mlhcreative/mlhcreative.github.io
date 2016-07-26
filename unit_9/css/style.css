@@ -53,8 +53,8 @@ header{
 }
 #c-1{
 	background: rgb(254, 233, 214);
-	height:50vw;
-	width: 50vw;
+	height:53vw;
+	width: 53vw;
 	border-radius: 50%;
 	left: 25%;
 	position: absolute;
@@ -115,7 +115,7 @@ section#splash {
 	font-weight: 100;
 	line-height: 1.8em;
 	margin: 2%;
-	padding: 20% 0 0;
+	padding: 10% 0 0;
 	text-align: center;
 	top: 10%:;
 	width: 100%;
