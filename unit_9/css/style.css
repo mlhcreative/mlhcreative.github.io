@@ -134,8 +134,11 @@ nav{
 	text-decoration: none;
 }
 .page{
-	padding: 25% 30% 25% 30%;
+	padding: 0% 30% 25% 30%;
 	width: 40%;
+}
+#about{
+	padding-top:25%;
 }
 .services{
 	display: block;
