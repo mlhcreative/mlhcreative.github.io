@@ -47,7 +47,7 @@ header{
 #c-0a{
 	margin-left: 35%;
 	position: absolute;
-	top: 220%;
+	top: 235%;
 	z-index: -2;
 }
 #c-1{
@@ -59,7 +59,7 @@ header{
 #c-1a{
 	margin-left: -18%;
 	position: absolute;
-	top: 220%;
+	top: 235%;
 	z-index: -4;
 }
 #c-2{
@@ -101,7 +101,7 @@ header{
 #c-5a{
 	margin-left: 6%;
 	position: absolute;
-	top: 220%;
+	top: 235%;
 	z-index: -3;
 }
 section#splash {
