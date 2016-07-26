@@ -68,7 +68,7 @@ section#splash {
 	font-weight: 100;
 	line-height: 1.5;
 	margin: 2%;
-	padding: 18% 0 0;
+	padding: 20% 0 0;
 	text-align: center;
 	width: 100%;
 }
@@ -80,11 +80,11 @@ section#splash {
 }
 .cta {
 	background:#000000;
-	color:#E6F3FF;
+	color:#FFF;
 	display:inline-block;
 	padding:1% 2%;
 	text-decoration:none;
-	margin-top: 3%;
+	margin-top: 5%;
 }
 h1{
 	font-weight: 100;
