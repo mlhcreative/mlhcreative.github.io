@@ -13,7 +13,7 @@ body{
 	text-decoration: none;
 }
 header, footer{
-	background: #E6F3FF;
+	background:rgb(202, 218, 252);
 	display: block;
 	margin-top: -2.5em;
   	margin-bottom: -2.5em;
@@ -39,29 +39,24 @@ header{
 	width: 40%;
 }
 #c-0{
-	margin-left: 13%;
+	margin-left: 3%;
 	position: absolute;
-	top: 87%;
+	top: 65%;
 	z-index: -1;
 }
 #c-1{
-	margin-left: -7%;
+	margin-left: 3%;
 	position: absolute;
-	top: -35%;
-	z-index: -3;
+	top: 18%;
+	z-index: -2;
 }
 #c-2{
-	margin-left: 85%;
+	margin-left: -7%;
 	position: absolute;
-	top: 40%;
+	top: -30%;
 	z-index: -3;
 }
 #c-3{
-	margin-left: 85%;
-	position: absolute;
-	top: 30%;
-}
-#c-3-1{
 	margin-left:71%;
 	position: absolute;
 	top: 125%;
@@ -72,12 +67,6 @@ header{
 	position: absolute;
 	top: 45%;
 	z-index: -3;
-}
-#c-5{
-	margin-left: 17%;
-	position: absolute;
-	top: 18%;
-	z-index: -2;
 }
 section#splash {
 	display: block;
@@ -156,7 +145,7 @@ section, footer, nav{
 	display: block;
 	padding:2%;
 }
-#footer-nav, #contact, #address{
+.footer-nav, #contact, #address{
 	margin-bottom: 0.5%;
 	margin-top: 0%;
 	padding: 0%;
