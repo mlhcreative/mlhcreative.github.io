@@ -44,6 +44,12 @@ header{
 	top: 715%;
 	z-index: -2;
 }
+#c-0a{
+	margin-left: 15%;
+	position: absolute;
+	top: 642%;
+	z-index: -3;
+}
 #c-1{
 	margin-left: 11%;
 	position: absolute;
@@ -62,11 +68,23 @@ header{
 	top: 742%;
 	z-index: -3;
 }
+#c-2b{
+	margin-left: 25%;
+	position: absolute;
+	top: 642%;
+	z-index: -3;
+}
 #c-3{
 	margin-left:60%;
 	position: absolute;
 	top:377%;
 	z-index: -1;
+}
+#c-3a{
+	margin-left: 30%;
+	position: absolute;
+	top: 642%;
+	z-index: -3;
 }
 #c-4{
 	margin-left: 25%;
@@ -85,6 +103,12 @@ header{
 	position: absolute;
 	top: 505%;
 	z-index: -4;
+}
+#c-5a{
+	margin-left: 40%;
+	position: absolute;
+	top: 642%;
+	z-index: -3;
 }
 section#splash {
 	display: block;
