@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:900,400,100);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
-*{margin:0; padding:0}
+*{margin:0;padding:0;box-sizing: border-box;}
 body{
 	background:#FFF;
 	color: #16191D;
@@ -12,17 +12,18 @@ body{
 	line-height: 1.25;
 	text-decoration: none;
 }
-header, footer{
+header{
 	background:rgb(202, 218, 252);
 	display: block;
-	margin-top: -2.5em;
-  	margin-bottom: -2.5em;
-  	padding: -2%;
-    	position: fixed;
-  	width:100%;
+	/* margin-top: -2.5em; */
+	/* margin-bottom: -2.5em; */
+	padding: -2%;
+	position: fixed;
+	width:100%;
+	top: 0;
 }
 header{
-	top:2%;
+	top: 0%;
 }
 #logo{
 	float: left;
@@ -39,10 +40,14 @@ header{
 	width: 40%;
 }
 #c-0{
-	margin-left: 14%;
+	left: 14%;
 	position: absolute;
 	top: 680%;
 	z-index: -2;
+	background: black;
+	height: 30vw;
+	width: 30vw;
+	border-radius: 50%;
 }
 #c-0a{
 	margin-left: 35%;
@@ -151,12 +156,20 @@ nav{
 	font-family:'Roboto', sans-serif;
 	text-decoration: none;
 }
+nav a {
+	color:inherit;
+	text-decoration:none;
+	padding:1em;
+}
 .page{
-	padding: 0% 30% 25% 30%;
-	width: 40%;
+	/* padding: 0% 30% 25% 30%; */
+	max-width: 35em;
+	margin: auto;
+	clear: both;
+	position: relative;
 }
 #about{
-	padding-top:25%;
+	/* padding-top:25%; */
 }
 #portfolio{
 	margin: 0%;
@@ -190,11 +203,12 @@ figure{
 }
 footer{
   	background: #fff;
-  	top:83%;
+  	/* top:83%; */
 }
 section, footer, nav{
 	display: block;
 	padding:2%;
+	position: relative;
 }
 .footer-nav, #contact, #address{
 	margin-bottom: 0.5% ;
