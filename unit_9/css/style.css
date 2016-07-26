@@ -139,6 +139,7 @@ nav{
 }
 #our-services{
 	margin-bottom:2%;
+	padding-bottom:1%;
 }
 .services{
 	display: block;
@@ -147,6 +148,7 @@ nav{
 	width: 30%;
 }
 #ports{
+	margin:0 0 15% 0;
 	padding: 0 30% 0 30%;
 }
 figure{
