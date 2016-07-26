@@ -54,12 +54,12 @@ header{
 }
 #c-1{
 	background: rgb(254, 233, 214);
-	height:51vw;
-	width: 51vw;
+	height:65vw;
+	width: 65vw;
 	border-radius: 50%;
-	left: 25%;
+	left: 16%;
 	position: absolute;
-	top: 15%;
+	top: 0%;
 	z-index: -2;
 }
 #c-1a{
