@@ -56,6 +56,12 @@ header{
 	top: 8%;
 	z-index: -2;
 }
+#c-1a{
+	margin-left: 21%;
+	position: absolute;
+	top: 583%;
+	z-index: -4;
+}
 #c-2{
 	margin-left: -7%;
 	position: absolute;
@@ -79,12 +85,6 @@ header{
 	position: absolute;
 	top:320%;
 	z-index: -1;
-}
-#c-3a{
-	margin-left: 21%;
-	position: absolute;
-	top: 583%;
-	z-index: -4;
 }
 #c-4{
 	margin-left: 25%;
