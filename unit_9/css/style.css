@@ -69,10 +69,10 @@ header{
 	z-index: -1;
 }
 #c-4{
-	margin-left: 15%;
+	margin-left: 25%;
 	position: absolute;
-	top: 790%;
-	z-index: -3;
+	top: 805%;
+	z-index: -4;
 }
 section#splash {
 	display: block;
