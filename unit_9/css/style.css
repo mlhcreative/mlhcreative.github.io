@@ -144,7 +144,7 @@ section, footer, nav{
 .footer-nav, #contact, #address{
 	margin-bottom: 5%;
 	margin-top: 0%;
-	padding: 0%;
+	padding: 2%;
 	text-align: center;
 }
 .clearfix:after {
