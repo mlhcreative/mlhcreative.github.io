@@ -7,9 +7,9 @@ body{
 	color: #16191D;
 	font-family: 'Source Serif Pro', serif;
 	font-size: 16px;
-	letter-spacing: -0.025;
-	word-spacing: 0.041;
-	line-height: 1.25;
+	letter-spacing: -0.025em;
+	word-spacing: 0.041em;
+	line-height: 1.25em;
 	text-decoration: none;
 }
 header{
@@ -56,6 +56,10 @@ header{
 	z-index: -2;
 }
 #c-1{
+	background: rgb(254, 233, 214);
+	height:30vw;
+	weight:30vw;
+	border-radius: 50%;
 	margin-left: 11%;
 	position: absolute;
 	top: 8%;
