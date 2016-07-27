@@ -169,11 +169,9 @@ nav a {
 .page{
 	max-width: 45em;
 	margin: auto;
+	padding: 2em;
 	clear: both;
 	position: relative;
-}
-#about{
-	/* padding-top:25%; */
 }
 #ports{
 	margin:0%;
