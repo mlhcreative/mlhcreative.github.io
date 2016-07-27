@@ -170,6 +170,9 @@ nav a {
 	text-decoration:none;
 	padding:2em;
 }
+#about{
+	top: 10%;
+}
 .page{
 	max-width: 45em;
 	margin: auto;
