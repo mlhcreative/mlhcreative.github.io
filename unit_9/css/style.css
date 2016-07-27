@@ -85,6 +85,10 @@ header{
 	z-index: -3;
 }
 #c-3{
+	background: rgb(237, 20, 91);
+	height:80vw;
+	width: 80vw;
+	border-radius: 50%;
 	margin-left:60%;
 	position: absolute;
 	top:320%;
