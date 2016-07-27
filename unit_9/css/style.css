@@ -89,7 +89,7 @@ header{
 	height:80vw;
 	width: 80vw;
 	border-radius: 50%;
-	right:0%;
+	right:-50%;
 	position: absolute;
 	top:0%;
 	z-index: -1;
