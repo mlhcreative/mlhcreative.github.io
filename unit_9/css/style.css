@@ -86,10 +86,10 @@ header{
 }
 #c-3{
 	background: rgb(237, 20, 91);
-	height:80vw;
-	width: 80vw;
+	height:75vw;
+	width: 75vw;
 	border-radius: 50%;
-	left:160%;
+	left:180%;
 	position: absolute;
 	top:0%;
 	z-index: -1;
