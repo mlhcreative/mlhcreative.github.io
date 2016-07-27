@@ -167,7 +167,6 @@ nav a {
 	padding:2em;
 }
 .page{
-	left:20em;
 	max-width: 45em;
 	margin: auto;
 	clear: both;
@@ -175,10 +174,6 @@ nav a {
 }
 #about{
 	/* padding-top:25%; */
-}
-#portfolio{
-	margin: 0%;
-	padding:0% 30% 0% 30%;
 }
 #ports{
 	margin:0%;
