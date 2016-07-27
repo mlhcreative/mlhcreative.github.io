@@ -184,8 +184,8 @@ nav a {
 .services{
 	display: block;
 	float: left;
-	margin: 0.5% 30% 25% 30%;
-	width: 30%;
+	margin: auto;
+	max-width:35em;
 }
 figure{
 	display: block;
