@@ -65,12 +65,12 @@ header{
 	z-index: -2;
 }
 #c-1-a{
-	background: rgb(254, 233, 214);
+	background: rgb(255, 0, 0);
 	height:5vw;
 	width: 5vw;
 	left:55%;
 	top: 120%;
-	z-index: -2;
+	z-index: -1;
 }
 #c-1a{
 	margin-left: -18%;
