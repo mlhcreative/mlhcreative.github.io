@@ -42,8 +42,10 @@ header{
 }
 .balloon-drops{
 	background: rgb(254, 233, 214);
+	border-radius: 50%;
 	height:2vw;
 	width: 2vw;
+	position: absolute;
 	z-index: -2;
 }
 #c-0{
