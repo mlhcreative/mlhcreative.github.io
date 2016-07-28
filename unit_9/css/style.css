@@ -93,11 +93,11 @@ header{
 	top: 120%;
 }
 #c-1_m{
-	background:rgba(254, 233, 214, .40);
+	background:rgba(254, 233, 214, .50);
 	height:25vw;
 	width:25vw;
-	left:50%;
-	top: 50%;
+	left:10%;
+	bottom: 200%;
 	z-index:-2;
 }
 #c-1a{
