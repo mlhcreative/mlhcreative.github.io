@@ -181,6 +181,7 @@ nav a {
 	position: relative;
 }
 #ports{
+	background:#eff4fe;
 	margin:auto;
 	max-width:35em;
 }
