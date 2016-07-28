@@ -213,7 +213,7 @@ nav a {
 .page{
 	max-width: 45em;
 	margin: auto;
-	padding:10em 2em 1em 2em;
+	padding:10em 2em 5em 2em;
 	clear: both;
 	position: relative;
 }
@@ -237,8 +237,8 @@ figure{
 	width:45%;
 }
 #contact-us{
-	margin-top:25%;
-	margin-bottom: 5%;
+	top:25%;
+	bottom: 5%;
 }
 footer{
   	background: #fff;
