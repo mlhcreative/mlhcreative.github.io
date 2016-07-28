@@ -73,6 +73,7 @@ header{
 	z-index: -2;
 }
 #c-1-a{
+	background: rgb(254, 233, 214, .20);
 	left:25%;
 	top: 105%;
 }
@@ -92,7 +93,7 @@ header{
 	top: 120%;
 }
 #c-1_m{
-	background:rgb(254, 233, 214, .40);
+	background:rgba(254, 233, 214, .40);
 	height:25vw;
 	width:25vw;
 	left:50%;
@@ -106,7 +107,7 @@ header{
 	z-index: -4;
 }
 #c-2{
-	background: rgb(124, 124, 123);
+	background: rgba(124, 124, 123);
 	height:50vw;
 	width: 50vw;
 	left: -12%;
