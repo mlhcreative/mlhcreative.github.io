@@ -73,12 +73,12 @@ header{
 	z-index: -2;
 }
 #c-1-a{
-	background: rgb(254, 233, 214, .20);
+	background: rgb(254, 233, 214, .70);
 	left:25%;
 	top: 105%;
 }
 #c-1-b{
-	background: rgb(254, 233, 214, .40);
+	background: rgb(254, 233, 214, .70);
 	left:75%;
 	top: 105%;
 }
