@@ -82,9 +82,12 @@ header{
 }
 #c-1-c{
 	left:65%;
+	top: 110%;
+}
+#c-1-d{
+	left:50%;
 	top: 115%;
 }
-
 #c-1a{
 	margin-left: -18%;
 	position: absolute;
