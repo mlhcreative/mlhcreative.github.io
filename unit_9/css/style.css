@@ -77,18 +77,18 @@ header{
 	top: 123%;
 }
 #c-1-b{
-	left:63%;
-	top: 123%;
+	height:5vw;
+	width:5vw;
+	left:43%;
+	top: 122%;
 }
 #c-1-c{
 	left:53%;
 	top: 123%;
 }
 #c-1-d{
-	height:5vw;
-	width:5vw;
-	left:43%;
-	top: 122%;
+	left:63%;
+	top: 123%;
 }
 #c-1_m{
 	background:rgba(254, 233, 214, .50);
