@@ -96,9 +96,9 @@ header{
 }
 #c-4{
 	background: rgb(189, 189, 189, .60);
-	margin-left: 50%;
+	margin-left: 25%;
 	position: absolute;
-	top:70%;
+	top:100%;
 	z-index: -4;
 }
 #c-4a{
