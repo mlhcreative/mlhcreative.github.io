@@ -73,22 +73,22 @@ header{
 	z-index: -2;
 }
 #c-1-a{
-	left:25%;
-	top: 115%;
+	left:30%;
+	top: 130%;
 }
 #c-1-b{
-	left:75%;
-	top: 115%;
+	left:70%;
+	top: 130%;
 }
 #c-1-c{
-	left:65%;
-	top: 115%;
+	left:60%;
+	top: 130%;
 }
 #c-1-d{
 	height:5vw;
 	width:5vw;
-	left:50%;
-	top: 115%;
+	left:45%;
+	top: 125%;
 }
 #c-1_m{
 	background:rgba(254, 233, 214, .50);
