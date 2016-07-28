@@ -66,10 +66,10 @@ header{
 }
 #c-1-a{
 	background: rgb(254, 233, 214);
-	height:2vw;
-	width: 2vw;
+	height:5vw;
+	width: 5vw;
 	left:55%;
-	top: 80%;
+	top: 120%;
 	z-index: -2;
 }
 #c-1a{
