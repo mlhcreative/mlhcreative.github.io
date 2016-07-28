@@ -36,6 +36,12 @@ header{
 	text-align: right;
 	width: 40%;
 }
+.balloons-M{
+	height:50vw;
+	width: 50vw;
+	border-radius: 50%;
+	position: absolute;
+}
 #c-0{
 	left: 14%;
 	position: absolute;
@@ -54,11 +60,7 @@ header{
 }
 #c-1{
 	background: rgb(254, 233, 214);
-	height:50vw;
-	width: 50vw;
-	border-radius: 50%;
 	left:25%;
-	position: absolute;
 	top: 2.5%;
 	z-index: -2;
 }
@@ -70,11 +72,7 @@ header{
 }
 #c-2{
 	background: rgb(124, 124, 123);
-	height:50vw;
-	width: 50vw;
-	border-radius: 50%;
 	left: -12%;
-	position: absolute;
 	top: -80%;
 	z-index: -3;
 }
