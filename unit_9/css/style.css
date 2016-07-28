@@ -215,7 +215,7 @@ nav a {
 .page{
 	max-width: 45em;
 	margin: auto;
-	padding:10em 2em 10em 2em;
+	padding:10em 2em 0 2em;
 	clear: both;
 	position: relative;
 }
