@@ -48,16 +48,6 @@ header{
 	position: absolute;
 	z-index: -2;
 }
-#c-0{
-	left: 14%;
-	position: absolute;
-	top: 680%;
-	z-index: -2;
-	background: black;
-	height: 30vw;
-	width: 30vw;
-	border-radius: 50%;
-}
 #c-0a{
 	margin-left: 35%;
 	position: absolute;
@@ -110,12 +100,6 @@ header{
 	width: 50vw;
 	left: -12%;
 	top: -80%;
-	z-index: -3;
-}
-#c-2a{
-	left: 15%;
-	position: absolute;
-	top: 707%;
 	z-index: -3;
 }
 #c-3{
