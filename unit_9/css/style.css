@@ -226,6 +226,7 @@ nav a {
 #why-us {
 	display: block;
 	float: right;
+	padding:10em 0em 5em 2em;
 }
 #ports{
 	background:#eff4fe;
