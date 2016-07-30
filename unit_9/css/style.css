@@ -68,7 +68,7 @@ header{
 	background: rgba(254, 233, 214, .70);
 	height:25vw;
 	width: 25vw;
-	left:40%;
+	left:30%;
 	bottom: -30%;
 	z-index: -2;
 }
@@ -142,10 +142,10 @@ header{
 	z-index: -3;
 }
 #c-5{
-	background: rgba(254, 233, 214, .70);
+	background: rgba(239, 244, 254, .70);
 	height:25vw;
 	width: 25vw;
-	left:10%;
+	left:0%;
 	bottom: -30%;
 	z-index: -2;
 }
