@@ -41,7 +41,7 @@ header{
 	position: absolute;
 }
 .balloon-drops{
-	background: rgba(239, 244, 254, .70);
+	background: rgb(239, 244, 254);
 	border-radius: 50%;
 	height:2vw;
 	width: 2vw;
@@ -63,23 +63,23 @@ header{
 	z-index: -2;
 }
 #c-1-a{
-	left:-65%;
+	left:-100%;
 	bottom: 20%;
 }
 #c-1-b{
-	left:-53%;
+	left:-89%;
 	bottom: 20%;
 }
 #c-1-c{
-	left:-43%;
+	left:-78%;
 	bottom: 20%;
 }
 #c-1-d{
-	left:-32%;
+	left:-67%;
 	bottom: 20%;
 }
 #c-1-e{
-	left:-21%;
+	left:-56%;
 	bottom: 20%;
 }
 #c-1-1{
