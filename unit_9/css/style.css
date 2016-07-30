@@ -169,8 +169,8 @@ header{
 	background: rgba(239, 244, 254, .70);
 	height:50vw;
 	width: 50vw;
-	left:-80%;
-	top:-200%;
+	left:-70%;
+	top:-150%;
 	z-index: -2;
 }
 section#splash {
