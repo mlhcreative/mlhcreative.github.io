@@ -56,12 +56,6 @@ header{
 	bottom:35%;
 	z-index: -2;
 }
-#c-0a{
-	margin-left: 35%;
-	position: absolute;
-	top: 235%;
-	z-index: -2;
-}
 #c-1{
 	background: rgb(254, 233, 214);
 	height:50vw;
@@ -147,12 +141,15 @@ header{
 	bottom:21%;
 	z-index: -3;
 }
-#c-5a{
-	left: 6%;
-	position: absolute;
-	top: 235%;
-	z-index: -3;
+#c-5{
+	background: rgba(254, 233, 214, .70);
+	height:25vw;
+	width: 25vw;
+	left:10%;
+	bottom: -30%;
+	z-index: -2;
 }
+
 section#splash {
 	display: block;
 	font-family: 'Raleway', sans-serif;	
