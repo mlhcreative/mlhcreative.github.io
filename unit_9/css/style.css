@@ -63,23 +63,23 @@ header{
 	z-index: -2;
 }
 #c-1-a{
-	left:-100%;
-	bottom: 20%;
-}
-#c-1-b{
-	left:-89%;
-	bottom: 20%;
-}
-#c-1-c{
 	left:-78%;
 	bottom: 20%;
 }
-#c-1-d{
+#c-1-b{
 	left:-67%;
 	bottom: 20%;
 }
-#c-1-e{
+#c-1-c{
 	left:-56%;
+	bottom: 20%;
+}
+#c-1-d{
+	left:-45%;
+	bottom: 20%;
+}
+#c-1-e{
+	left:-34%;
 	bottom: 20%;
 }
 #c-1-1{
