@@ -72,6 +72,14 @@ header{
 	bottom: -80%;
 	z-index: -2;
 }
+#c-1-1a{
+	background: rgba(254, 233, 214, .70);
+	height:25vw;
+	width: 25vw;
+	left:35%;
+	bottom: -80%;
+	z-index: -2;
+}
 #c-1-a{
 	left:-78%;
 	bottom: 20%;
@@ -149,7 +157,14 @@ header{
 	bottom: -80%;
 	z-index: -2;
 }
-
+#c-5a{
+	background: rgba(239, 244, 254, .70);
+	height:25vw;
+	width: 25vw;
+	left:-15%;
+	bottom: -80%;
+	z-index: -2;
+}
 section#splash {
 	display: block;
 	font-family: 'Raleway', sans-serif;	
