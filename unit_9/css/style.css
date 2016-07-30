@@ -85,7 +85,7 @@ header{
 	height:30vw;
 	width: 30vw;
 	margin-left: 1%;
-	bottom:5%;
+	bottom:50%;
 	z-index: -2;
 }
 #c-1a{
@@ -125,8 +125,8 @@ header{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
-	margin-left: 1%;
-	bottom:-5%;
+	margin-left: -5%;
+	bottom:50%;
 	z-index: -2;
 }
 #c-5a{
