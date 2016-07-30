@@ -70,6 +70,14 @@ header{
 	top: 2.5%;
 	z-index: -2;
 }
+#c-1-1{
+	background: rgba(254, 233, 214, .70);
+	height:25vw;
+	width: 25vw;
+	left:25%;
+	bottom: 5%;
+	z-index: -2;
+}
 #c-1-a{
 	left:-78%;
 	bottom: 20%;
