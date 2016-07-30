@@ -208,6 +208,11 @@ nav a {
 	margin: auto;
 	max-width:35em;
 }
+#community {
+	display: block;
+	float: right;
+	margin: auto;
+}
 figure{
 	display: block;
 	float: left;
