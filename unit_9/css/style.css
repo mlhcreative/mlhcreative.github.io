@@ -224,9 +224,7 @@ nav a {
 	position: relative;
 }
 #why-us {
-	display: block;
-	float: right;
-	padding:10em 0em 5em 2em;
+	padding:10em 10em 5em 2em;
 }
 #ports{
 	background:#eff4fe;
