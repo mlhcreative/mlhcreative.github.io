@@ -54,7 +54,7 @@ header{
 	width: 30vw;
 	left: -15%;
 	bottom:35%;
-	z-index: -2;
+	z-index: -3;
 }
 #c-1{
 	background: rgb(254, 233, 214);
@@ -139,7 +139,7 @@ header{
 	width: 30vw;
 	left: 0%;
 	bottom: 8%;
-	z-index: -3;
+	z-index: -4;
 }
 #c-4b{
 	background: rgba(0, 0, 0, .70);
@@ -147,7 +147,7 @@ header{
 	width: 30vw;
 	left: -3%;
 	bottom:21%;
-	z-index: -3;
+	z-index: -4;
 }
 #c-5{
 	background: rgba(239, 244, 254, .70);
