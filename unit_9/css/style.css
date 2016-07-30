@@ -48,6 +48,14 @@ header{
 	position: absolute;
 	z-index: -2;
 }
+#c-0{
+	background: rgba(0, 0, 0, .70);
+	height:30vw;
+	width: 30vw;
+	margin-left: 18%;
+	bottom:-25%;
+	z-index: -2;
+}
 #c-0a{
 	margin-left: 35%;
 	position: absolute;
