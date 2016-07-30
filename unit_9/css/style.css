@@ -48,22 +48,6 @@ header{
 	position: absolute;
 	z-index: -2;
 }
-#c-0{
-	left: 14%;
-	position: absolute;
-	top: 680%;
-	z-index: -2;
-	background: black;
-	height: 30vw;
-	width: 30vw;
-	border-radius: 50%;
-}
-#c-0a{
-	margin-left: 35%;
-	position: absolute;
-	top: 235%;
-	z-index: -2;
-}
 #c-1{
 	background: rgb(254, 233, 214);
 	height:50vw;
@@ -90,7 +74,7 @@ header{
 	left:67%;
 	bottom:25%;
 }
-#c-1_m{
+#c-1-1{
 	background:rgba(254, 233, 214, .50);
 	height:25vw;
 	width:25vw;
@@ -98,24 +82,12 @@ header{
 	bottom: 75%;
 	z-index:-2;
 }
-#c-1a{
-	margin-left: -18%;
-	position: absolute;
-	top: 235%;
-	z-index: -4;
-}
 #c-2{
 	background: rgb(124, 124, 123);
 	height:50vw;
 	width: 50vw;
 	left: -12%;
 	top: -80%;
-	z-index: -3;
-}
-#c-2a{
-	left: 15%;
-	position: absolute;
-	top: 707%;
 	z-index: -3;
 }
 #c-3{
@@ -127,35 +99,13 @@ header{
 	position: absolute;
 	top:0%;
 	z-index: -1;
-}
 #c-4{
-	background: rgba(189, 189, 189, .40);
-	height:30vw;
-	width: 30vw;
-	margin-left: 15%;
-	position: absolute;
-	bottom:50%;
-	z-index: -4;
-}
-#c-4a{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
 	margin-left: 15%;
 	bottom:50%;
 	z-index: -2;
-}
-#c-5{
-	margin-left:-18%;
-	position: absolute;
-	top:470%;
-	z-index: -4;
-}
-#c-5a{
-	margin-left: 6%;
-	position: absolute;
-	top: 235%;
-	z-index: -3;
 }
 section#splash {
 	display: block;
