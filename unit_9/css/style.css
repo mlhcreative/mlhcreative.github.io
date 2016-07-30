@@ -49,11 +49,11 @@ header{
 	z-index: -2;
 }
 #c-0{
-	background: rgba(255, 255, 255, .70);
+	background: rgb(255, 255, 255);
 	height:30vw;
 	width: 30vw;
 	margin-left: 10%;
-	bottom:-25%;
+	bottom:0%;
 	z-index: -2;
 }
 #c-0a{
