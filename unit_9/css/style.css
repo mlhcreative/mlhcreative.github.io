@@ -223,6 +223,10 @@ nav a {
 	clear: both;
 	position: relative;
 }
+#why-us {
+	display: block;
+	float: right;
+}
 #ports{
 	background:#eff4fe;
 	margin:auto;
@@ -233,10 +237,6 @@ nav a {
 	float: left;
 	margin: auto;
 	max-width:35em;
-}
-#community {
-	display: block;
-	float: right;
 }
 figure{
 	display: block;
