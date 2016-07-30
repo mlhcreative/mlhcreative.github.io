@@ -165,6 +165,14 @@ header{
 	top: 25%;
 	z-index: -2;
 }
+#c-5b{
+	background: rgba(239, 244, 254, .70);
+	height:50vw;
+	width: 50vw;
+	left:-25%;
+	top: 0%;
+	z-index: -2;
+}
 section#splash {
 	display: block;
 	font-family: 'Raleway', sans-serif;	
