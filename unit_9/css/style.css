@@ -84,7 +84,7 @@ header{
 	background: rgba(254, 233, 214, .70);
 	height:30vw;
 	width: 30vw;
-	margin-left: 2%;
+	margin-left: 5%;
 	bottom:5%;
 	z-index: -2;
 }
@@ -125,7 +125,7 @@ header{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
-	margin-left: 4%;
+	margin-left: 1%;
 	bottom:5%;
 	z-index: -2;
 }
