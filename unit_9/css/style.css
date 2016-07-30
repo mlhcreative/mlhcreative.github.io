@@ -90,14 +90,6 @@ header{
 	left:-34%;
 	bottom: 20%;
 }
-#c-1-1{
-	background: rgba(254, 233, 214, .70);
-	height:30vw;
-	width: 30vw;
-	margin-left: 1%;
-	bottom:2%;
-	z-index: -2;
-}
 #c-1a{
 	margin-left: -18%;
 	position: absolute;
@@ -135,19 +127,11 @@ header{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
-	left: -5%;
-	bottom:2%;
-	z-index: -2;
-}
-#c-4b{
-	background: rgba(189, 189, 189, .70);
-	height:30vw;
-	width: 30vw;
 	left: 0%;
 	bottom: 8%;
 	z-index: -2;
 }
-#c-4c{
+#c-4b{
 	background: rgba(0, 0, 0, .70);
 	height:30vw;
 	width: 30vw;
