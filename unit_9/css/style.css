@@ -211,7 +211,8 @@ nav a {
 	max-width:35em;
 }
 #community {
-	padding:10em 50em 5em 2em;
+	display: block;
+	float: right;
 }
 figure{
 	display: block;
