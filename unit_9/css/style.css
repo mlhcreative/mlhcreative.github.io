@@ -131,6 +131,14 @@ header{
 	bottom:2%;
 	z-index: -2;
 }
+#c-4b{
+	background: rgba(189, 189, 189, .70);
+	height:30vw;
+	width: 30vw;
+	margin-left: 50%;
+	bottom:2%;
+	z-index: -2;
+}
 #c-5a{
 	margin-left: 6%;
 	position: absolute;
