@@ -170,7 +170,7 @@ header{
 	height:50vw;
 	width: 50vw;
 	left:-100%;
-	top:-100%;
+	top:-200%;
 	z-index: -2;
 }
 section#splash {
