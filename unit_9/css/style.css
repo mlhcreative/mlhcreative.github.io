@@ -154,15 +154,15 @@ header{
 	height:25vw;
 	width: 25vw;
 	left:-40%;
-	top: 0%;
+	top: -80%;
 	z-index: -2;
 }
 #c-5a{
 	background: rgba(239, 244, 254, .70);
 	height:25vw;
 	width: 25vw;
-	left:-15%;
-	bottom: -80%;
+	left:-35%;
+	top: 0%;
 	z-index: -2;
 }
 section#splash {
