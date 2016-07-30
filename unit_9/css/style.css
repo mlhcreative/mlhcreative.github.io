@@ -138,9 +138,13 @@ header{
 	z-index: -4;
 }
 #c-4a{
+	background: rgba(189, 189, 189, .40);
+	height:30vw;
+	width: 30vw;
+	margin-left: 15%;
+	bottom:25%;
+	z-index: -2;
 	margin-left:76%;
-	position: absolute;
-	top: 520%;
 	z-index: -4;
 }
 #c-5{
