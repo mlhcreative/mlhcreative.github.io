@@ -76,8 +76,8 @@ header{
 	background: rgba(254, 233, 214, .70);
 	height:25vw;
 	width: 25vw;
-	left:35%;
-	bottom: -80%;
+	left:65%;
+	top: 0%;
 	z-index: -2;
 }
 #c-1-a{
@@ -154,7 +154,7 @@ header{
 	height:25vw;
 	width: 25vw;
 	left:-15%;
-	bottom: -80%;
+	top: 0%;
 	z-index: -2;
 }
 #c-5a{
