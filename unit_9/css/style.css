@@ -194,7 +194,7 @@ figure{
 }
 footer{
   	background: #fff;
-  	/* top:83%; */
+  	top:83%;
 }
 section, footer, nav{
 	display: block;
