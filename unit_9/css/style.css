@@ -295,6 +295,7 @@ section, footer, nav{
 }
 @media only screen and (max-width: 622px){
 	.main-menu{
+	background: rgba(189, 189, 189, .70);
 	clear:both;
 	float:none;
 	margin: auto;
