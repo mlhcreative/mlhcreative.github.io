@@ -264,7 +264,7 @@ figure{
 	margin:0.5% 0.5% 5% 0.5%;
 	padding:1%;
 	text-align: center;
-	width:25em;
+	width:15em;
 }
 #contact-us{
 	top:25%;
@@ -273,7 +273,6 @@ figure{
 }
 footer{
   	background: #fff;
-  	/* top:83%; */
 }
 section, footer, nav{
 	display: block;
