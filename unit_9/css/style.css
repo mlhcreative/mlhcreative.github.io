@@ -56,6 +56,14 @@ header{
 	bottom:35%;
 	z-index: -3;
 }
+#c-0a{
+	background: rgb(255, 255, 255);
+	height:30vw;
+	width: 30vw;
+	left: -15%;
+	bottom:35%;
+	z-index: -3;
+}
 #c-1{
 	background: rgb(254, 233, 214);
 	height:50vw;
@@ -156,6 +164,22 @@ header{
 	left:-35%;
 	top: 25%;
 	z-index: -2;
+}
+#c-4d{
+	background: rgba(189, 189, 189, .70);
+	height:30vw;
+	width: 30vw;
+	left: 0%;
+	bottom: 15%;
+	z-index: -4;
+}
+#c-4e{
+	background: rgba(239, 244, 254, .40);
+	height:30vw;
+	width: 30vw;
+	left: -3%;
+	bottom:23%;
+	z-index: -4;
 }
 #c-5{
 	background: rgba(239, 244, 254, .70);
