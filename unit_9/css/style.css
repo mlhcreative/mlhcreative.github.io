@@ -235,7 +235,7 @@ nav a {
 	text-decoration:none;
 	padding:2em;
 }
-@media only screen and (min-width:622px) and (max-width: 1169px){
+@media only screen and (max-width: 605px){
 	.main-menu{
 	float:none;
 	max-width:auto;
