@@ -290,8 +290,8 @@ section, footer, nav{
 	position: relative;
 }
 .footer-nav, #contact, #address{
-	margin-bottom: 0.5% ;
-	margin-top: 0%;
+	bottom: 0.5% ;
+	top: 0%;
 	padding: 0%;
 	text-align: center;
 }
