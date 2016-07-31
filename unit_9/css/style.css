@@ -294,15 +294,11 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (min-width: 320px) and (max-width:553px){
-	#logo{
-	float:none;
-	clear:both;
-	}
 	.main-menu, #ports{
 	background: rgba(189, 189, 189, .70);
 	float:none;
 	margin: 0%;
-	max-width:2em;
+	max-width:5em;
 	padding:0%;
 	clear: both;
 	}
