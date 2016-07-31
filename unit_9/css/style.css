@@ -301,8 +301,8 @@ section, footer, nav{
 	.main-menu, #ports{
 	background: rgba(189, 189, 189, .70);
 	float:none;
-	margin: auto;
-	max-width:0%;
+	margin: 0%;
+	max-width:2em;
 	padding:0%;
 	clear: both;
 	}
