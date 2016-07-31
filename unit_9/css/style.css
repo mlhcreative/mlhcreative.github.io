@@ -37,13 +37,6 @@ header{
 	text-align: right;
 	max-width: 50em;
 }
-@media only screen and (max-width: 603px){
-	.main-menu{
-	float:none;
-	max-width:auto;
-	padding:1em;
-}
-}
 .balloons{
 	border-radius: 50%;
 	position: absolute;
@@ -299,4 +292,11 @@ section, footer, nav{
     	content: " ";
     	clear: both;
     	height: 0;
+}
+@media only screen and (max-width: 603px){
+	.main-menu{
+	float:none;
+	max-width:auto;
+	padding:1em;
+}
 }
