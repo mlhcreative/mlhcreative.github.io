@@ -289,7 +289,7 @@ section, footer, nav{
 	padding:2%;
 	position: relative;
 }
-.footer-nav, #contact, #address{
+.footer-nav, #social{
 	bottom: 0.5% ;
 	top: 0%;
 	padding: 0%;
