@@ -169,8 +169,8 @@ header{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
-	left: -20%;
-	bottom: -10%;
+	left: -45%;
+	bottom: -25%;
 	z-index: -4;
 }
 #c-4e{
@@ -178,7 +178,7 @@ header{
 	height:30vw;
 	width: 30vw;
 	left: -30%;
-	bottom:-5%;
+	bottom:-15%;
 	z-index: -4;
 }
 #c-5{
