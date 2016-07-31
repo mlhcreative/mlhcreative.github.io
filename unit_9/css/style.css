@@ -294,6 +294,10 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (max-width:622px){
+	#logo{
+	float:none;
+	clear:both;
+	}
 	.main-menu, #ports{
 	background: rgba(189, 189, 189, .70);
 	float:none;
