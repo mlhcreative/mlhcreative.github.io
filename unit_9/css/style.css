@@ -134,7 +134,7 @@ header{
 	z-index: -4;
 }
 #c-4a{
-	background: rgba(189, 189, 189, .70);
+	background: rgba(239, 244, 254, .70);
 	height:30vw;
 	width: 30vw;
 	left: 0%;
@@ -142,7 +142,7 @@ header{
 	z-index: -4;
 }
 #c-4b{
-	background: rgba(0, 0, 0, .70);
+	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
 	left: -3%;
