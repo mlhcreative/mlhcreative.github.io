@@ -169,7 +169,7 @@ header{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
-	left: -45%;
+	left: -40%;
 	bottom: -25%;
 	z-index: -4;
 }
@@ -177,7 +177,7 @@ header{
 	background: rgba(239, 244, 254, .40);
 	height:30vw;
 	width: 30vw;
-	left: -30%;
+	left: -25%;
 	bottom:-15%;
 	z-index: -4;
 }
