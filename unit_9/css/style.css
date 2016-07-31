@@ -35,7 +35,12 @@ header{
  	margin:1.5em;
 	padding: 3% 0% 0% 0%;
 	text-align: right;
-	width: 40%;
+	max-width: 15em;
+}
+@media only screen and (min-width:388px) and (max-width: 1169px){
+	.main-menu{
+		
+	}
 }
 .balloons{
 	border-radius: 50%;
