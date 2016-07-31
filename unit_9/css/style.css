@@ -296,11 +296,11 @@ section, footer, nav{
 @media only screen and (max-width: 622px){
 	.main-menu, #ports{
 	background: rgba(189, 189, 189, .70);
-	clear: both;
 	float:none;
 	margin: auto;
 	max-width:auto;
-	padding: 0em, 2em, 0em, 2em;
+	padding: 0em, 5em, 0em, 5em;
+	clear: both;
 	}
 }
 
