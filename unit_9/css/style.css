@@ -235,10 +235,11 @@ nav a {
 	text-decoration:none;
 	padding:2em;
 }
-@media only screen and (max-width: 605px){
+@media only screen and (max-width: 603px){
 	.main-menu{
 	float:none;
 	max-width:auto;
+	padding:1em;
 }
 #about{
 	top: 10%;
