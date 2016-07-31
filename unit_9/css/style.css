@@ -31,10 +31,10 @@ header{
 	color: #16191D;
 	float: right;
  	font-family: 'Roboto', sans-serif;
- 	margin:1.5em;
-	padding: 3% 0 0 0;
+ 	margin:auto;
+	padding: 2em 0 0 0;
 	text-align: right;
-	width: 40%;
+	max-width: 50em;
 }
 .balloons{
 	border-radius: 50%;
