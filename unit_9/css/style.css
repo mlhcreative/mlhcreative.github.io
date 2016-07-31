@@ -302,7 +302,7 @@ section, footer, nav{
 	background: rgba(189, 189, 189, .70);
 	float:none;
 	margin: auto;
-	max-width:2em;
+	max-width:0%;
 	padding:0%;
 	clear: both;
 	}
