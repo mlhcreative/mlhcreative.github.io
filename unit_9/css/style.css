@@ -293,7 +293,7 @@ section, footer, nav{
     	clear: both;
     	height: 0;
 }
-@media only screen and (max-width: 603px){
+@media only screen and (max-width: 622px){
 	.main-menu{
 	float:none;
 	max-width:auto;
