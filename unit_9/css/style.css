@@ -296,7 +296,8 @@ section, footer, nav{
 @media only screen and (max-width: 603px){
 	.main-menu{
 	float:none;
-	max-width:15em;
+	max-width:auto;
 	padding:1em;
+	}
 }
 
