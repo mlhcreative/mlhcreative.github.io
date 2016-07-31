@@ -32,9 +32,9 @@ header{
 	float: right;
  	font-family: 'Roboto', sans-serif;
  	margin:1.5em;
-	padding: 3em 0 0 0;
+	padding: 3% 0% 0% 0%;
 	text-align: right;
-	max-width: 80em;
+	width: 40%;
 }
 .balloons{
 	border-radius: 50%;
