@@ -127,15 +127,6 @@ header{
 	top:-40%;
 	z-index: -1;
 }
-#c-4{
-	background: rgba(189, 189, 189, .40);
-	height:30vw;
-	width: 30vw;
-	left: 15%;
-	position: absolute;
-	top:20%;
-	z-index: -4;
-}
 #c-4a{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
