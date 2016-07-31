@@ -297,9 +297,9 @@ section, footer, nav{
 	.main-menu, #ports{
 	background: rgba(189, 189, 189, .70);
 	float:none;
-	margin: 0%;
-	max-width:5em;
-	padding:0%;
+	margin: 1%;
+	max-width:10em;
+	padding:2em, 0em, 2em, 0em;
 	clear: both;
 	}
 }
