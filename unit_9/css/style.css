@@ -110,7 +110,7 @@ header{
 	bottom: 20%;
 }
 #c-1a{
-	margin-left: -18%;
+	left: -18%;
 	position: absolute;
 	top: 235%;
 	z-index: -4;
