@@ -344,6 +344,10 @@ header{
 	}
 }
 @media only screen and (max-width:320px){
+#c-1-1, #c-5{
+	height:250px;
+	width:250px;
+	}
 #why-us{
 	margin:auto;
 	}
@@ -363,4 +367,4 @@ header{
 	padding:0;
     	}
 }
-}
+
