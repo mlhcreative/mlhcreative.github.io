@@ -306,4 +306,9 @@ section, footer, nav{
 	max-width:10em;
 	padding:0;
     	}
+    	#splash{
+	max-width: auto;
+	paddding: 40% 0 0 0;
+	font-size: 1em;
+	}
 }
