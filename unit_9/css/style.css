@@ -314,6 +314,8 @@ section, footer, nav{
 }
 @media only screen and (max-width:622px){
 header{
+	margin:0%;
+	padding:0%;
 	top:0%
 	left:0%
 	right:0%;
@@ -325,9 +327,9 @@ header{
 	padding:0;
 	}
 #c-1{
-	height:30px;
-	width:30px;
-	top:80%;
+	height:500px;
+	width:500px;
+	top:10%;
 }
 #splash{
 	top:80%;
