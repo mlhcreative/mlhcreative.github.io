@@ -312,7 +312,7 @@ section, footer, nav{
     	clear: both;
     	height: 0;
 }
-@media only screen and (max-width:622px){
+@media only screen and (min-width:320px) and (max-width:622px){
 header{
 	margin:0%;
 	padding:0%;
@@ -337,7 +337,6 @@ header{
 	max-width: auto;
 	}
 }
-@media only screen and (max-width:411px){
 #ports{
 	text-align: center;
 	max-width:10em;
@@ -346,12 +345,19 @@ header{
 }
 @media only screen and (max-width:320px){
 #why-us{
-	left:0%;
 	margin:auto;
 	}
-#ports{
-	text-align: center;
-	max-width:10em;
-	padding:0;
-    	}
+.balloons{
+	border-radius: 50%;
+	height:200px;
+	width:200px ;
+	position: relative;
+	}
+.balloon-drops{
+	background: rgb(254, 233, 214);
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	position: relative;
+	}
 }
