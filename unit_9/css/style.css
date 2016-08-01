@@ -118,6 +118,14 @@ header{
 	top: -80%;
 	z-index: -3;
 }
+#c-2a{
+	background: rgb(124, 124, 123);
+	height:30vw;
+	width: 30vw;
+	left: -30%;
+	bottom:-25%;
+	z-index: -4;
+}
 #c-3{
 	background: rgb(237, 20, 91);
 	height:75vw;
@@ -166,14 +174,6 @@ header{
 	width: 30vw;
 	left: -25%;
 	bottom:-20%;
-	z-index: -4;
-}
-#c-4f{
-	background: rgb(239, 244, 254);
-	height:30vw;
-	width: 30vw;
-	left: -30%;
-	bottom:-25%;
 	z-index: -4;
 }
 #c-5{
