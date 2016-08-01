@@ -300,14 +300,12 @@ section, footer, nav{
 	padding:0;
 	}
 	#splash{
-	max-width: 25em;
-	postion: relative;
-	top: 50%;
+	max-width: auto;
+	top: 80%;
 	}
 #c-1{
-	height:50vw;
-	width: 50vw;
-	position relative;
+	height:100vw;
+	width: 100vw;
 	top: 50%;
 	}
 #c-2{
