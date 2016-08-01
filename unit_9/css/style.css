@@ -350,10 +350,10 @@ header{
 	padding:0;
     	}
 }
-@media only screen and (max-width:320px){
+@media only screen and (max-width:319px){
 #c-1{
 	top:0%;
-	left:-10px;
+	left:-12px;
 }
 #c-1-1, #c-5{
 	height:250px;
