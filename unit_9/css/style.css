@@ -335,7 +335,7 @@ header{
 #c-1{
 	height:500px;
 	width:500px;
-	top:10%;
+	top:5%;
 	left:auto;
 }
 #splash{
@@ -352,7 +352,7 @@ header{
 }
 @media only screen and (max-width:320px){
 #c-1{
-	left:-5%;
+	left:-20%;
 }
 #c-1-1, #c-5{
 	height:250px;
