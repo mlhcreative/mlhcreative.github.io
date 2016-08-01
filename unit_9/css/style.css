@@ -297,9 +297,9 @@ section, footer, nav{
 .main-menu {
 	float: none;
 	line-height: 2em;
+    	max-width: 50em;
+    	right:2%:;
     	text-align: right;
-    	max-width: auto;
-    	padding: 2em 0 2em 0;
     	clear: both;
 	}
 #ports{
