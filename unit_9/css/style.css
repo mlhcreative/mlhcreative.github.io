@@ -314,11 +314,12 @@ section, footer, nav{
 }
 @media only screen and (max-width:622px){
 header{
-	margin:0;
-	position: static;
+	top:0%
+	left:0%
+	right:0%;
+	position: relative;
 	}
 .main-menu {
-	float:left;
 	margin:0;
 	max-width:10em;
 	padding:0;
