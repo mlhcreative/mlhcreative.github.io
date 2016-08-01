@@ -309,7 +309,7 @@ section, footer, nav{
 	}
 #splash{
 	max-width: auto;
-	margin: 80% 0 0 0;
+	bottom: -80%;
 	}
 
 h1{
