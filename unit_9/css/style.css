@@ -298,6 +298,8 @@ section, footer, nav{
 	float: none;
 	line-height: 2em;
     	text-align: right;
+    	max-width: auto;
+    	padding: 2em 0 2em 0;
     	clear: both;
 	}
 #ports{
