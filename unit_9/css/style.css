@@ -321,6 +321,9 @@ header{
 	right:0%;
 	position: relative;
 	}
+#why-nav, #blog-nav{
+	visibility: hidden;
+}
 .main-menu {
 	margin:0;
 	max-width:10em;
