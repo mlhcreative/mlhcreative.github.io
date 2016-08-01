@@ -11,6 +11,7 @@ body{
 	word-spacing: 0.041em;
 	line-height: 1.25em;
 	text-decoration: none;
+	overflow-x:hidden;
 }
 header{
 	background:rgb(202, 218, 252);
@@ -312,9 +313,6 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (max-width:622px){
-body{
-	overflow-x: hidden;
-}
 header{
 	margin:0;
 	position: static;
