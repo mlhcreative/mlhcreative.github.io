@@ -307,6 +307,9 @@ section, footer, nav{
 	width: 50vw;
 	top: 50%;
 	}
+h1{
+	font-size: 1em;
+}
 }
 @media only screen and (max-width:411px){	
 #ports{
