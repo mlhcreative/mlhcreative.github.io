@@ -137,12 +137,12 @@ header{
 	z-index: -1;
 }
 #c-3a{
-	background: rgba(237, 20, 91, .10);
+	background: rgb(237, 20, 91);
 	height:30vw;
 	width: 30vw;
 	left: -10%;
 	bottom:40%;
-	z-index: -3;
+	z-index: -4;
 }
 #c-4a{
 	background: rgba(189, 189, 189, .70);
@@ -150,7 +150,7 @@ header{
 	width: 30vw;
 	left: 0%;
 	bottom: 50%;
-	z-index: -4;
+	z-index: -5;
 }
 #c-4b{
 	background: rgba(239, 244, 254, .40);
