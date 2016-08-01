@@ -300,7 +300,7 @@ section, footer, nav{
 	position:absolute;
 	}
 #c-2{
-	top:100%;
+	top:75%;
 	position:absolute;
 }
 @media only screen and (max-width:622px){
@@ -310,7 +310,7 @@ section, footer, nav{
 	}
 #splash, #slogan{
 	max-width: auto;
-	top:100%;
+	top:150%;
 	positon: absolute;
 	}
 h1{
