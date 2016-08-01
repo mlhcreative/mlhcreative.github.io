@@ -149,15 +149,15 @@ header{
 	height:30vw;
 	width: 30vw;
 	left: 0%;
-	bottom: 15%;
+	bottom: 50%;
 	z-index: -4;
 }
 #c-4b{
 	background: rgba(239, 244, 254, .40);
 	height:30vw;
 	width: 30vw;
-	left: 20%;
-	bottom:30%;
+	left: -5%;
+	bottom:45%;
 	z-index: -4;
 }
 #c-4c{
