@@ -296,7 +296,7 @@ section, footer, nav{
 }
 @media only screen and (max-width:622px){
 .main-menu {
-	max-width:12em;
+	max-width:10em;
 	}
 #ports{
 	text-align: center;
