@@ -122,8 +122,8 @@ header{
 	background: rgba(124, 124, 123, .40);
 	height:30vw;
 	width: 30vw;
-	left: -30%;
-	bottom:-25%;
+	left: -20%;
+	bottom:-15%;
 	z-index: -5;
 }
 #c-3{
@@ -164,16 +164,16 @@ header{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
 	width: 30vw;
-	left: -20%;
-	bottom: -15%;
+	left: -25%;
+	bottom: -20%;
 	z-index: -4;
 }
 #c-4e{
 	background: rgba(239, 244, 254, .40);
 	height:30vw;
 	width: 30vw;
-	left: -25%;
-	bottom:-20%;
+	left: -30%;
+	bottom:-25%;
 	z-index: -4;
 }
 #c-5{
