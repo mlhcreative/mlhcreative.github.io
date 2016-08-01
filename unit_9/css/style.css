@@ -352,13 +352,13 @@ header{
 	border-radius: 50%;
 	height:350px;
 	width:350px ;
-	position: relative;
+	position: static;
 	}
 .balloon-drops{
 	background: rgb(254, 233, 214);
 	border-radius: 50%;
 	height:200px;
 	width: 200px;
-	position: relative;
+	position: static;
 	}
 }
