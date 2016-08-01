@@ -309,7 +309,7 @@ section, footer, nav{
 	}
 #splash, #slogan{
 	max-width: auto;
-	top:200%;
+	padding: 50% 0 0;
 	}
 h1{
 	font-size: 0.5em;
