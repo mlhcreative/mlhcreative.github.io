@@ -301,6 +301,7 @@ section, footer, nav{
 	}
 	#splash{
 	max-width: auto;
+	postion: relative;
 	top: 50%;
 	}
 #c-1{
