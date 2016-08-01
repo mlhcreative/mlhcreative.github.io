@@ -318,6 +318,7 @@ header{
 	position: static;
 	}
 .main-menu {
+	float:left;
 	margin:0;
 	max-width:10em;
 	padding:0;
