@@ -312,7 +312,7 @@ section, footer, nav{
     	clear: both;
     	height: 0;
 }
-@media only screen and (min-width:320px) and (max-width:622px){
+@media only screen and (min-width:320px) and (max-width:625px){
 header{
 	margin:0%;
 	padding:0%;
