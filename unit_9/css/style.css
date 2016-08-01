@@ -302,13 +302,10 @@ section, footer, nav{
 	#splash{
 	max-width: auto;
 	}
-	#c-1{
-	background: rgb(254, 233, 214);
+#c-1{
 	height:50vw;
 	width: 50vw;
-	left:25%;
-	top: 15%;
-	z-index: -2;
+	top: 50%;
 	}
 }
 @media only screen and (max-width:411px){	
