@@ -327,9 +327,10 @@ header{
 	padding:0;
 	}
 #c-1{
-	height:800px;
-	width:800px;
+	height:500px;
+	width:500px;
 	top:10%;
+	left:2%;
 }
 #splash{
 	top:80%;
@@ -349,8 +350,8 @@ header{
 	}
 .balloons{
 	border-radius: 50%;
-	height:500px;
-	width:500px ;
+	height:350px;
+	width:350px ;
 	position: relative;
 	}
 .balloon-drops{
