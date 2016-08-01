@@ -296,10 +296,10 @@ section, footer, nav{
 }
 @media only screen and (min-width:320px) and (max-width:1080px){
 #c-1{
-	bottom: -50%;
+	position:absolute;
 	}
 #c-2{
-	bottom: -25%;
+	position:absolute;
 }
 @media only screen and (max-width:622px){
 .main-menu {
@@ -309,6 +309,7 @@ section, footer, nav{
 #splash, #slogan{
 	max-width: auto;
 	bottom:50%;
+	positon: absolute;
 	}
 h1{
 	font-size: 0.5em;
