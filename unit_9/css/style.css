@@ -122,8 +122,8 @@ header{
 	background: rgb(124, 124, 123);
 	height:30vw;
 	width: 30vw;
-	left: -30%;
-	bottom:-25%;
+	left: -25%;
+	bottom:-20%;
 	z-index: -4;
 }
 #c-3{
