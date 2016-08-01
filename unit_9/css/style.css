@@ -136,6 +136,14 @@ header{
 	top:-40%;
 	z-index: -1;
 }
+#c-3a{
+	background: rgba(237, 20, 91, .10);
+	height:30vw;
+	width: 30vw;
+	left: -10%;
+	bottom:40%;
+	z-index: -3;
+}
 #c-4a{
 	background: rgba(189, 189, 189, .70);
 	height:30vw;
