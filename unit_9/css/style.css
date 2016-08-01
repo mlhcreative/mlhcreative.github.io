@@ -119,10 +119,10 @@ header{
 	z-index: -3;
 }
 #c-2a{
-	background: rgba(124, 124, 123, .40);
+	background: rgb(124, 124, 123);
 	height:30vw;
 	width: 30vw;
-	left: -20%;
+	left: -25%;
 	bottom:-15%;
 	z-index: -5;
 }
