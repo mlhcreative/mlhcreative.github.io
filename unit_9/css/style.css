@@ -299,6 +299,17 @@ section, footer, nav{
 	max-width:10em;
 	padding:0;
 	}
+	#splash{
+	max-width: auto;
+	}
+	#c-1{
+	background: rgb(254, 233, 214);
+	height:50vw;
+	width: 50vw;
+	left:25%;
+	top: 15%;
+	z-index: -2;
+	}
 }
 @media only screen and (max-width:411px){	
 #ports{
@@ -306,9 +317,4 @@ section, footer, nav{
 	max-width:10em;
 	padding:0;
     	}
-    	#splash{
-	max-width: auto;
-	paddding: 40% 0 0 0;
-	font-size: 1em;
-	}
 }
