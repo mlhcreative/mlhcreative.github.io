@@ -349,6 +349,9 @@ header{
     	}
 }
 @media only screen and (max-width:320px){
+header{
+	padding:2%;
+}
 #why-us{
 	margin:auto;
 	}
