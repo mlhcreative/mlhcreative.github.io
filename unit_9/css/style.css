@@ -314,6 +314,8 @@ section, footer, nav{
 @media only screen and (max-width:622px){
 header{
 	margin:0;
+	positon:relative;
+	z-index:0;
 }
 .main-menu {
 	margin:0;
