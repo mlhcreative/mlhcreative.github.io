@@ -269,6 +269,7 @@ nav a {
 }
 #ports{
 	float:left;
+	left:35%;
 	margin:auto;
 	max-width:45em;
 }
