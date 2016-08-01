@@ -164,8 +164,8 @@ header{
 	background: rgba(239, 244, 254, .40);
 	height:30vw;
 	width: 30vw;
-	left: 0%;
-	bottom:0%;
+	left: -25%;
+	bottom:-15%;
 	z-index: -4;
 }
 #c-5{
