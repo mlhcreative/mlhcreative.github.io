@@ -68,8 +68,8 @@ header{
 }
 #c-1{
 	background: rgb(254, 233, 214);
-	height:50vw;
-	width: 50vw;
+	height:50%;
+	width: 50%;
 	left:25%;
 	top: 2.5%;
 	z-index: -2;
