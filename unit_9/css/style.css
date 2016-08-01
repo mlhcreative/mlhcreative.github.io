@@ -307,10 +307,11 @@ section, footer, nav{
 	max-width:10em;
 	padding:0;
 	}
-#splash, #slogan{
+#splash{
 	max-width: auto;
-	padding: 50% 0 0;
+	margin: 50% 0 0 0;
 	}
+
 h1{
 	font-size: 0.5em;
 	}
