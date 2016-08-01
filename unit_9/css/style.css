@@ -68,8 +68,8 @@ header{
 }
 #c-1{
 	background: rgb(254, 233, 214);
-	height:50%;
-	width: 50%;
+	height:50vw;
+	width: 50vw;
 	left:25%;
 	top: 2.5%;
 	z-index: -2;
@@ -303,14 +303,6 @@ section, footer, nav{
 	max-width: auto;
 	bottom:5%;
 	}
-#c-1{
-	height:2em;
-	width: 2em;
-	top: 50%;
-	}
-#c-2{
-	top: 15%;
-}
 h1{
 	font-size: 1em;
 	}
@@ -321,4 +313,15 @@ h1{
 	max-width:10em;
 	padding:0;
     	}
+}
+@media only screen and (min-width:320px) and (max-width:1080px){
+#c-1{
+	height:2em;
+	width: 2em;
+	top: 50%;
+	}
+#c-2{
+	height:2em;
+	width: 2em;
+	top: 15%;
 }
