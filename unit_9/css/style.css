@@ -300,10 +300,10 @@ section, footer, nav{
 	padding:0;
 	}
 }
-@media only screen and (max-width:410px){	
+@media only screen and (max-width:411px){	
 #ports{
 	text-align: center;
-	max-width:5em;
+	max-width:10em;
 	padding:0;
     	}
 }
