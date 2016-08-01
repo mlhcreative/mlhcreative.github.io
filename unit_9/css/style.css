@@ -304,8 +304,9 @@ section, footer, nav{
 	top: 50%;
 	}
 #c-1{
-	height:2em;
-	width: 2em;
+	height:50vw;
+	width: 50vw;
+	position relative;
 	top: 50%;
 	}
 #c-2{
