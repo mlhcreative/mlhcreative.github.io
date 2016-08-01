@@ -300,12 +300,6 @@ section, footer, nav{
 	left:0%;
 	margin:auto;
 	}
-#ports{
-	text-align: center;
-	max-width:10em;
-	padding:0;
-    	}
-}
 }
 @media only screen and (max-width:622px){
 .main-menu {
@@ -320,4 +314,11 @@ section, footer, nav{
 h1{
 	font-size: 0.5em;
 	}
+}
+@media only screen and (max-width:411px){
+#ports{
+	text-align: center;
+	max-width:10em;
+	padding:0;
+    	}
 }
