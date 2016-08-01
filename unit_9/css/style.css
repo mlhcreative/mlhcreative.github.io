@@ -324,13 +324,13 @@ header{
 	max-width:10em;
 	padding:0;
 	}
+#c-1{
+	top:80%;
+}
 #splash{
-	margin: 100% 0 10% 0;
+	top:80%;
 	padding: 30% 0 0;
 	max-width: auto;
-	}
-h1{
-	font-size: 0.5em;
 	}
 }
 @media only screen and (max-width:411px){
