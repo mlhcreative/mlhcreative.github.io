@@ -36,7 +36,7 @@ header{
  	margin:1.5em;
 	padding: 3% 0% 0% 0%;
 	text-align: right;
-	max-width: auto;
+	max-width: 40%;
 }
 .balloons{
 	border-radius: 50%;
@@ -293,15 +293,4 @@ section, footer, nav{
     	content: " ";
     	clear: both;
     	height: 0;
-}
-@media only screen and (max-width:622px){
-.main-menu {
-	float: none;
-    	right:2%:;
-    	text-align: right;
-    	clear: both;
-	}
-#ports{
-	text-align: center;
-    	}
 }
