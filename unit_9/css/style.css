@@ -297,6 +297,7 @@ section, footer, nav{
 }
 @media only screen and (max-width:320px){
 #why-us{
+	left:0%;
 	margin:auto;
 	}
 }
@@ -314,7 +315,6 @@ section, footer, nav{
 	}
 #splash{
 	max-width: auto;
-	top: 200%;
 	}
 
 h1{
