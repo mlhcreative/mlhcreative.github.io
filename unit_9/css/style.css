@@ -321,12 +321,12 @@ header{
 	top:0%
 	left:0%
 	right:0%;
-	position: static;
+	position:relative;
 	}
 .main-menu {
 	line-height:1em;
 	margin:0;
-	max-width:auto;
+	max-width:10em;
 	padding:0;
 	}
 }
@@ -337,7 +337,7 @@ header{
 	top:0%
 	left:0%
 	right:0%;
-	position: static;
+	position: relative;
 	}
 #why-nav, #blog-nav{
 	visibility: hidden;
