@@ -353,14 +353,11 @@ header{
 	margin:auto;
 	}
 .balloons{
-	border-radius: 50%;
 	height:350px;
 	width:350px ;
 	left:3%;
 	}
 .balloon-drops{
-	background: rgb(254, 233, 214);
-	border-radius: 50%;
 	height:200px;
 	width: 200px;
 	left:0%;
