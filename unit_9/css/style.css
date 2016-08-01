@@ -326,7 +326,7 @@ header{
 .main-menu {
 	line-height:1em;
 	margin:0;
-	max-width:10em;
+	max-width:auto;
 	padding:0;
 	}
 }
