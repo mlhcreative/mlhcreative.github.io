@@ -32,10 +32,11 @@ header{
 	float: right;
  	font-family: 'Roboto', sans-serif;
  	letter-spacing: 0.010em;
+ 	line-height: 2em;
  	margin:1.5em;
 	padding: 3% 0% 0% 0%;
 	text-align: right;
-	max-width: 50em;
+	max-width: auto;
 }
 .balloons{
 	border-radius: 50%;
@@ -296,8 +297,6 @@ section, footer, nav{
 @media only screen and (max-width:622px){
 .main-menu {
 	float: none;
-	line-height: 2em;
-    	max-width: 15em;
     	right:2%:;
     	text-align: right;
     	clear: both;
