@@ -312,9 +312,12 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (max-width:622px){
+body{
+	overflow-x: hidden;
+}
 header{
 	margin:0;
-	position: initial;
+	position: static;
 	}
 .main-menu {
 	margin:0;
