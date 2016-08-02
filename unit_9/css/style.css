@@ -11,8 +11,6 @@ body{
 	word-spacing: 0.041em;
 	line-height: 1.25em;
 	text-decoration: none;
-}
-div {
 	overflow-x:hidden;
 }
 header{
@@ -138,6 +136,7 @@ header{
 	position: absolute;
 	top:-40%;
 	z-index: -1;
+	overflow-x:hidden;
 }
 #c-3-1{
 	background: rgb(237, 20, 91);
@@ -149,6 +148,7 @@ header{
 	top:-40%;
 	z-index: -1;
 	visibility:hidden;
+	overflow-x:hidden;
 }
 #c-3a{
 	background: rgb(237, 20, 91);
