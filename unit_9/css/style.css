@@ -359,7 +359,7 @@ header{
 	width:350px ;
 	left:0;
 	}
-.qmoon{
+#c-0a{
 	background: inherit;
 	height:350px;
 	width: 350x;
@@ -367,13 +367,26 @@ header{
 	bottom:inherit;
 	z-index: inherit;
 	}
-.qmoon2{
-	background: inherit;
-	height:350px;
-	width: 350x;
-	right:0%;
-	bottom:inherit;
-	z-index: inherit;
+#c-4d{
+	float: left;
+	height:450px;
+	width: 450x;
+	left:0%;
+	bottom:0%;
+	}
+#c-4e{
+	float: left;
+	height:450px;
+	width: 450x;
+	left:0%;
+	bottom:0%;
+	}
+#c-2a{
+	float: left;
+	height:450px;
+	width: 450x;
+	left:0%;
+	bottom:0%;
 	}
 #c-1{
 	height:500px;
