@@ -339,7 +339,8 @@ header{
 	}
 .pages{
 	max-width:100%;
-	padding:1%;
+	padding:0%;
+	margin:0%;
 }
 #ports{
 	left:25%;
@@ -420,4 +421,10 @@ header{
 #our-services{
 	visibility:hidden;
 	}
+#blog{
+	visibility:hidden;
+	}
+#services{
+	visibility:hidden;
+}
 }
