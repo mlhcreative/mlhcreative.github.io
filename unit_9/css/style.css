@@ -539,7 +539,7 @@ nav a{
 	margin:auto;
 	}
 #splash{
-	top:100%;
+	bottom:-50%;
 	max-width: auto;
 	}
 }
