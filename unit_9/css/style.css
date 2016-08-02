@@ -341,16 +341,13 @@ body{
 header{
 	margin:0%;
 	padding:2%;
-	top:0%
-	left:0%
-	right:0%;
 	position:static;
 	}
 #why-nav, #blog-nav{
 	display:none;
 }
 .main-menu {
-	line-height:1em;
+	line-height:2em;
 	margin:0;
 	max-width:10em;
 	padding:2%;
