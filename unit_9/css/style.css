@@ -321,7 +321,7 @@ header{
 	top:0%
 	left:0%
 	right:0%;
-	position: relative;
+	position:static;
 	}
 #why-nav, #blog-nav{
 	visibility: hidden;
@@ -335,12 +335,12 @@ header{
 #c-1{
 	height:500px;
 	width:500px;
-	top:10%;
+	top:-10%;
 	left:auto;
 }
 #splash{
-	top:80%;
-	padding: 30% 0 0;
+	top:100%;
+	padding: 50% 0 0;
 	max-width: auto;
 	}
 #ports{
@@ -354,19 +354,19 @@ header{
 .balloons{
 	height:350px;
 	width:350px ;
-	left:0%;
+	left:auto;
 	}
 .balloon-drops{
 	height:200px;
 	width: 200px;
-	left:0%;
+	left:auto;
 	}
 #c-1{
 	top:-10%;
-	left:5px;
+	left:0%;
 }
 .qmoon{
-	left: 15%;
+	left: 30%;
 }
 #c-1-1, #c-5{
 	height:250px;
