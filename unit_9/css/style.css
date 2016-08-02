@@ -546,6 +546,7 @@ nav a{
 	display:visible;
 	height:1000px;
 	width:1000px;
-	right:-50%;
+	left:50%;
+	top:15%;
 	}
 }
