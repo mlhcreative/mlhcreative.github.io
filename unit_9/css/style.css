@@ -473,12 +473,13 @@ nav a{
 	padding:1em;
 	}
 #c-1{
-	height:800px;
-	width:800px;
-	left:25%;
+	height:600px;
+	width:600px;
+	left:auto;
 	}
 #c-2{
 	height:450px;
-	width:450px;	
+	width:450px;
+	left:auto;
 	}
 }
