@@ -146,7 +146,7 @@ header{
 	position: absolute;
 	top:-40%;
 	z-index: -1;
-	visibility:hidden;
+	display:none;
 }
 #c-3a{
 	background: rgb(237, 20, 91);
@@ -411,6 +411,7 @@ header{
 	width:350px;
 	left:8%;
 	bottom:22%;
+	z-index:4;
 }
 #c-4b{
 	height:350px;
