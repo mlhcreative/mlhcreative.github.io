@@ -200,7 +200,7 @@ header{
 	background: rgba(239, 244, 254, .70);
 	height:25vw;
 	width: 25vw;
-	left:-8%;
+	left:-50%;
 	bottom: -100%;
 	z-index: -3;
 }
