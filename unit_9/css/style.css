@@ -401,23 +401,28 @@ header{
 	left:-50%;
 }
 #why-us{
+	margin:auto;
+	padding:0%;
 	visibility:hidden;
 	}
 #community{
+	margin:auto;
+	padding:0%;
 	visibility:hidden;
 	} 
 #our-services{
+	margin:auto;
+	padding:0%;
 	visibility:hidden;
 	}
 #blog{
+	margin:auto;
+	padding:0%;
 	visibility:hidden;
 	}
 .services{
-	visibility:hidden;
-	}
-.pages{
-	max-width:auto;
-	padding:0%;
 	margin:auto;
+	padding:0%;
+	visibility:hidden;
 	}
 }
