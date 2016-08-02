@@ -549,4 +549,29 @@ nav a{
 	right:25%;
 	top:0%;
 	}
+#c-0{
+	height:350px;
+	width:350px;
+	left:-20%;
+	bottom:25%;
+}
+#c-3a{
+	background: rgb(124, 124, 123);
+	height:350px;
+	width:350px;
+	left:-8%;
+	bottom:20%;
+}
+#c-4b{
+	height:350px;
+	width:350px;
+	left:-14%;
+	bottom:22%;
+}
+#c-4a{
+	height:350px;
+	width:350px;
+	left:-5%;
+	bottom:17%;
+}
 }
