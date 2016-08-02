@@ -343,7 +343,7 @@ header{
 #ports{
 	left: 15%;
 	text-align: center;
-	max-width:100%;
+	max-width:10em;
 	padding:0;
     	}
 .balloons{
@@ -383,6 +383,11 @@ header{
 	height:350px;
 	width:350px;
 	}
+#c-3{
+	height:600px;
+	width:600px;
+	left:auto;
+}
 #why-us{
 	margin:auto;
 	}
