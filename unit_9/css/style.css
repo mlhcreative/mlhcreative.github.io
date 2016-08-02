@@ -339,6 +339,7 @@ header{
 	}
 .pages{
 	max-width:100%;
+	padding:1%;
 }
 #ports{
 	left:25%;
@@ -377,7 +378,7 @@ header{
 	height:500px;
 	width:500px;
 	top:-10%;
-	left:auto;
+	left:-20;
 	}
 #c-1-1, #c-5{
 	top:50%
@@ -410,7 +411,13 @@ header{
 	left:-50%;
 	
 }
-#why-us, #community #our-services{
+#why-us{
+	visibility:hidden;
+	}
+#community{
+	visibility:hidden;
+	} 
+#our-services{
 	visibility:hidden;
 	}
 }
