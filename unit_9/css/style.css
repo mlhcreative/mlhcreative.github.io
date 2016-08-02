@@ -424,7 +424,7 @@ header{
 #blog{
 	visibility:hidden;
 	}
-#services{
+.services{
 	visibility:hidden;
-}
+	}
 }
