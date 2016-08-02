@@ -335,6 +335,9 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (max-width:622px) and (min-width:320px){
+body{
+	overflow-x:hidden;
+}
 header{
 	margin:0%;
 	padding:2%;
