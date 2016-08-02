@@ -335,7 +335,7 @@ header{
 	position:static;
 	}
 #why-nav, #blog-nav{
-	visibility: hidden;
+	display:none;
 }
 .main-menu {
 	line-height:1em;
@@ -355,8 +355,7 @@ header{
 	padding:2%;
     	}
 #c-0a, #c-4d, #c-4e , #c-2a,#c-1-1{
-	position:collapse;
-	visibility: hidden;
+	display:none;
 	}
 #c-1{
 	height:500px;
@@ -404,26 +403,26 @@ header{
 #why-us{
 	margin:0%;
 	padding:0%;
-	visibility:collapse;
+	display:none;
 	}
 #community{
 	margin:0%;
 	padding:0%;
-	visibility:collapse;
+	display:none;
 	} 
 #our-services{
 	margin:auto;
 	padding:0%;
-	visibility:collapse;
+	display:none;
 	}
 #blog{
 	margin:0%;
 	padding:0%;
-	visibility:collapse;
+	display:none;
 	}
 .services{
 	margin:0%;
 	padding:0%;
-	visibility:collapse;
+	display:none;
 	}
 }
