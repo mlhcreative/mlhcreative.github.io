@@ -464,7 +464,8 @@ header{
 	display:none;
 	}
 #social{
-	margin:auto;
-	max-width:auto;
+	margin:-15%;
+	padding:0%;
+	left:15%;
 }
 }
