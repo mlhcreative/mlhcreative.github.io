@@ -341,7 +341,7 @@ header{
 	max-width:100%;
 }
 #ports{
-	left: 15%;
+	left:35%;
 	text-align: center;
 	max-width:10em;
 	padding:0;
@@ -380,6 +380,8 @@ header{
 	left:auto;
 	}
 #c-1-1, #c-5{
+	top:50%
+	left:25%;
 	height:350px;
 	width:350px;
 	}
