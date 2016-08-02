@@ -338,6 +338,11 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (min-width:768px) and (max-width:1024px){
+#c-1{
+	height:500px;
+	width:500px;
+}
+@media only screen and (min-width:768px) and (max-width:1024px){
 header{
 	margin:0%;
 	padding:2%;
