@@ -543,14 +543,9 @@ nav a{
 	max-width: auto;
 	}
 #c-3{
-	display:none;
-	}
-#c-3-1{
+	display:visible;
 	height:1000px;
 	width:1000px;
-	left:50%;
-	top:15%;
-	visibility:visible;
+	right:-50%;
 	}
 }
-
