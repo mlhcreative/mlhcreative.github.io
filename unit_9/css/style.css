@@ -410,7 +410,7 @@ header{
 	left:-50%;
 	
 }
-#why-us{
-	margin:auto;
+#why-us, #community #our-services{
+	visibility:hidden;
 	}
 }
