@@ -577,12 +577,13 @@ nav a{
 }
 @media only screen and (min-width:425px) and (max-width:768px){
 #splash{
-	margin: 100% 0 10% 0;
+	top: 80%;
 	max-width: auto;
 	}
 #c-1{
 	height:600px;
 	width:600px;
 	left:10%;
+	top:0%;
 	}
 }
