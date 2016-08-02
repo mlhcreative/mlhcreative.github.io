@@ -575,3 +575,14 @@ nav a{
 	bottom:27%;
 	}
 }
+@media only screen and (min-width:425px) and (max-width:768px){
+#splash{
+	margin: 30% 0 10% 0;
+	max-width: auto;
+	}
+#c-1{
+	height:600px;
+	width:600px;
+	left:18%;
+	}
+}
