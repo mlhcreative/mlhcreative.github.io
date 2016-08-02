@@ -352,13 +352,8 @@ header{
 	left:25%;
 	text-align: center;
 	max-width:10em;
-	padding:0;
+	padding:2%;
     	}
-.balloons{
-	height:350px;
-	width:350px ;
-	left:0;
-	}
 #c-0a, #c-4d, #c-4e , #c-2a,#c-1-1{
 	position:collapse;
 	visibility: hidden;
@@ -366,7 +361,7 @@ header{
 #c-1{
 	height:500px;
 	width:500px;
-	top:-10%;
+	top:-20%;
 	left:auto;
 	}
 #c-5{
