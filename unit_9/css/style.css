@@ -359,19 +359,7 @@ header{
 	width:350px ;
 	left:0;
 	}
-#c-0a{
-	position:collapse;
-	visibility: hidden;
-	}
-#c-4d{
-	position:collapse;
-	visibility: hidden;
-	}
-#c-4e{
-	position:collapse;
-	visibility: hidden;
-	}
-#c-2a{
+#c-0a, #c-4d, #c-4e , #c-2a,#c-1-1{
 	position:collapse;
 	visibility: hidden;
 	}
@@ -381,9 +369,9 @@ header{
 	top:-10%;
 	left:auto;
 	}
-#c-1-1, #c-5{
+#c-5{
 	top:50%
-	left:auto;
+	left:-50%;
 	height:350px;
 	width:350px;
 	}
