@@ -463,4 +463,8 @@ header{
 	padding:0%;
 	display:none;
 	}
+#social{
+	margin:auto;
+	max-width:auto;
+}
 }
