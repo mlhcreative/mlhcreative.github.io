@@ -539,6 +539,10 @@ nav a{
 	}
 #ports{
 	margin:auto;
-}
+	}
+#splash{
+	top:100%;
+	max-width: auto;
+	}
 }
 
