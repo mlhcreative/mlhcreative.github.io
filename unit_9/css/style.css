@@ -530,10 +530,15 @@ nav a{
 #c-1-1{
 	height:350px;
 	width:350px;
+	left:15%;
 }
 #c-5{
 	height:350px;
 	width:350px;
+	left:25%;
 	}
+#ports{
+	margin:auto;
+}
 }
 
