@@ -366,7 +366,12 @@ header{
 	left:0%;
 }
 .qmoon{
-	left: 30%;
+	background: inherit;
+	height:350px;
+	width: 350x;
+	left:30%;
+	bottom:inherit;
+	z-index: inherit;
 }
 #c-1-1, #c-5{
 	height:250px;
