@@ -338,23 +338,15 @@ section, footer, nav{
     	height: 0;
 }
 @media only screen and (min-width:768px) and (max-width:1024px){
+header{
+	margin:0%;
+	padding:2%;
+	position:static;
+	}
 #splash{
 	top:100%;
 	padding: 50% 0 0;
 	max-width: auto;
-	}
-#c-1{
-	height:500px;
-	width:500px;
-	top:-5%;
-	left:-30%;
-	}
-#c-2{
-	height:450px;
-	width:450px;
-	margin:auto;
-	top:-50%;
-	left:-20%;
 	}
 }
 @media only screen and (min-width:320px) and (max-width:767px){
