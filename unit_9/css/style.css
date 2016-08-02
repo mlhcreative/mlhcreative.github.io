@@ -337,11 +337,6 @@ header{
 	padding: 50% 0 0;
 	max-width: auto;
 	}
-.pages{
-	max-width:auto;
-	padding:0%;
-	margin:auto;
-}
 #ports{
 	left:25%;
 	text-align: center;
@@ -351,12 +346,6 @@ header{
 .balloons{
 	height:350px;
 	width:350px ;
-	left:0;
-	}
-.balloon-drops{
-	height:200px;
-	width: 200px;
-	bottom:-10;
 	left:0;
 	}
 .qmoon{
@@ -379,7 +368,7 @@ header{
 	height:500px;
 	width:500px;
 	top:-10%;
-	left:-5;
+	left:auto;
 	}
 #c-1-1, #c-5{
 	top:50%
@@ -410,7 +399,6 @@ header{
 	width: 250px;
 	bottom:-50%;
 	left:-50%;
-	
 }
 #why-us{
 	visibility:hidden;
@@ -426,5 +414,10 @@ header{
 	}
 .services{
 	visibility:hidden;
+	}
+.pages{
+	max-width:auto;
+	padding:0%;
+	margin:auto;
 	}
 }
