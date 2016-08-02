@@ -363,6 +363,12 @@ header{
 	top:-15%;
 	left:auto;
 	}
+#c-2{
+	height:450px;
+	width:450px;
+	margin:auto;
+	top:50%;
+}
 #c-3{
 	display:none;
 	}
