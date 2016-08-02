@@ -180,6 +180,15 @@ header{
 	top: 25%;
 	z-index: -2;
 }
+#c-4c-1{
+	background: rgba(189, 189, 189, .50);
+	height:15vw;
+	width: 15vw;
+	left:-35%;
+	top: 25%;
+	z-index: -2;
+	visibility:hidden;
+}
 #c-4d{
 	background: rgba(189, 189, 189, .60);
 	height:30vw;
@@ -398,12 +407,6 @@ header{
 	top:0%;
 	right:50%;
 }
-#c-4c{
-	height:250px;
-	width: 250px;
-	bottom:-50%;
-	left:-50%;
-}
 #c-0{
 	height:350px;
 	width:350px;
@@ -427,6 +430,12 @@ header{
 	width:350px;
 	left:17%;
 	bottom:17%;
+}
+#c-4c-1{
+	height:250px;
+	width:250px;
+	left:0%;
+	bottom:0%;
 }
 #why-us{
 	margin:0%;
