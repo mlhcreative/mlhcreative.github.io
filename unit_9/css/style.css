@@ -2,6 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
 *{margin:0;padding:0;box-sizing: border-box;}
+html{
+	overflow-x:hidden;
+}
 body{
 	background:#FFF;
 	color: #16191D;
@@ -136,7 +139,6 @@ header{
 	position: absolute;
 	top:-40%;
 	z-index: -1;
-	overflow-x:hidden;
 }
 #c-3-1{
 	background: rgb(237, 20, 91);
@@ -148,7 +150,6 @@ header{
 	top:-40%;
 	z-index: -1;
 	visibility:hidden;
-	overflow-x:hidden;
 }
 #c-3a{
 	background: rgb(237, 20, 91);
