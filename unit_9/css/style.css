@@ -546,7 +546,7 @@ nav a{
 	display:visible;
 	height:1000px;
 	width:1000px;
-	left:85%;
+	left:95%;
 	top:0%;
 	}
 #c-0{
@@ -559,19 +559,19 @@ nav a{
 	background: rgb(237, 20, 91);
 	height:350px;
 	width:350px;
-	left:-8%;
-	bottom:25%;
+	left:-17%;
+	bottom:15%;
 }
 #c-4b{
 	height:350px;
 	width:350px;
-	left:-14%;
-	bottom:25%;
+	left:-11%;
+	bottom:15%;
 }
 #c-4a{
 	height:350px;
 	width:350px;
-	left:-5%;
-	bottom:25%;
+	left:-14%;
+	bottom:15%;
 }
 }
