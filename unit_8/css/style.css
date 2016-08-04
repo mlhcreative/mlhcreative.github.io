@@ -2,6 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,900);
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
 * { margin:0; padding:0; box-sizing:border-box; border: box; border-style: solid; border-color: #000; width:1060;}
+html{
+	overflow-x:hidden;
+}
 body {
 	background: #E6F3FF;
 	color:#16191D;
