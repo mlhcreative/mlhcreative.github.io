@@ -96,6 +96,13 @@ nav{
 	font-family:'Roboto', sans-serif;
 	text-decoration: none;
 }
+.page{
+	max-width: 45em;
+	margin: auto;
+	padding:10em 2em 5em 2em;
+	clear: both;
+	position: relative;
+}
 #ports{
 	display: block;
 }
