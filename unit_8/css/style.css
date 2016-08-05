@@ -5,33 +5,42 @@
 html{
 	overflow-x:hidden;
 }
-body {
-	background: #E6F3FF;
-	color:#16191D;
-	font-family: 'Source Serif Pro', serif;	
-	letter-spacing: -0.025;
-	word-spacing: 0.041;
-	line-height: 1.25;
-	font-size:16px;
+body{
+	background:#FFF;
+	color: #16191D;
+	font-family: 'Source Serif Pro', serif;
+	font-size: 16px;
+	letter-spacing: 0.025em;
+	word-spacing: 0.041em;
+	line-height: 1.25em;
+	text-decoration: none;
+	overflow-x:hidden;
 }
 header{
+	background:rgb(202, 218, 252);
 	display: block;
-	border: 1% black solid;
-    padding: 2%;
-    text-decoration: none;
+	top: 0%;
+	padding: 2%;
+	position: fixed;
+	width:100%;
+	top: 0;
+	z-index:1;
 }
-.logo{
-	display: block;
-	border: 1% black solid;
+#logo{
 	float: left;
-    padding: 2%;
+    	padding: 0.5%;
+    	margin: 1.5% 0% 0% 0%;
 }
 .main-menu{
 	color: #16191D;
+	float: right;
  	font-family: 'Roboto', sans-serif;
- 	float: right;
- 	text-align: right;
- 	text-decoration: none;
+ 	letter-spacing: 0.010em;
+ 	line-height: 2em;
+ 	margin:1.5em;
+	padding: 3% 0% 0% 0%;
+	text-align: right;
+	max-width: 40em;
 }
 section#splash {
 	background-image: url("../images/Sculpturebysea.png");
