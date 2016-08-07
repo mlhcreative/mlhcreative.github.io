@@ -170,6 +170,8 @@ section#splash {
 	left:18%;
 	top: 30%;
 	z-index: -2;
+	}
+.splash-info{
 	background:#000000;
 	color:#E6F3FF;
 	display:inline-block;
