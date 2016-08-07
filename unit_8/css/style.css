@@ -133,6 +133,9 @@ figure{
 	padding:1%;
 	width: 50%;
 }
+#contact-us{
+	text-align: center;
+}
 section, footer, nav{
 	border: 1% black solid;
 	display: block;
