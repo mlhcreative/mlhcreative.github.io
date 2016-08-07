@@ -196,11 +196,10 @@ header{
 	position:static;
 	}
 #splash{
-	top:100%;
 	padding: 50% 0 0;
 	max-width: auto;
 	top: 95%;
-	left:12%;
+	left:50%;
 	}
 #why-nav,{
 	display:none;
