@@ -162,7 +162,7 @@ section#splash {
 	background-image: none;
 }
 #splash-circle{
-	background-image: url("../images/Sculpturebysea.png");
+	background-image: url("../images/Sculpturebyseacircle.png");
 	border-radius:50%;
 	position: absolute;
 	height:500px;
