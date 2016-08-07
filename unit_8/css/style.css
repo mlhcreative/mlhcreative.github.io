@@ -199,7 +199,7 @@ header{
 	padding: 50% 0 0;
 	max-width: auto;
 	top: 95%;
-	left:2%;
+	left:12%;
 	}
 #why-nav,{
 	display:none;
@@ -213,7 +213,7 @@ header{
 #splash-circle{
 	height:600px;
 	width:600px;
-	left:2%;
+	left:0%;
 	top:0%;
 	}
 nav a{
