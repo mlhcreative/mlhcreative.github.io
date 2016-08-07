@@ -200,7 +200,7 @@ header{
 	max-width: auto;
 	top: 95%;
 	}
-#why-nav, #blog-nav, #port-nav{
+#why-nav,{
 	display:none;
 }
 .main-menu {
