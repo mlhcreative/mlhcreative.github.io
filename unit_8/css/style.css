@@ -104,7 +104,8 @@ nav{
 	position: relative;
 }
 #ports{
-	display: block;
+	left:35%;
+	max-width:45em;
 }
 #two-columns{
 	background-color: #E6F3FF;
