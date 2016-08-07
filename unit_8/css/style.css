@@ -170,6 +170,11 @@ section#splash {
 	left:18%;
 	top: 30%;
 	z-index: -2;
+	background:#000000;
+	color:#E6F3FF;
+	display:inline-block;
+	padding:1em 2em;
+	text-decoration:none;
 	}
 div #splash-circle:after {
   	content: "";
