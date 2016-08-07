@@ -162,7 +162,6 @@ footer{
 	max-width: auto;
 	margin: auto;
 	padding:10em 0em 5em 0em;
-	clear: both;
 	}	
 }
 figure{
@@ -171,7 +170,6 @@ figure{
 }
 #left{
 	float:none;
-	clear: both;
 	}
 #right{
 	float:none;
