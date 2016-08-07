@@ -106,6 +106,8 @@ nav{
 #ports{
 	left:35%;
 	max-width:45em;
+	margin:auto;
+	padding:10em 2em 5em 2em;
 }
 #two-columns{
 	background-color: #E6F3FF;
