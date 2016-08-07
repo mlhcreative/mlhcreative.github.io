@@ -184,3 +184,61 @@ figure{
 	float:none;
 	}
 }
+@media only screen and (min-width: 320px) and (max-width:425px){
+header{
+	margin:0%;
+	padding:2%;
+	position:static;
+	}
+#splash{
+	top:100%;
+	padding: 50% 0 0;
+	max-width: auto;
+	top: 95%;
+	}
+#why-nav, #blog-nav{
+	display:none;
+}
+.main-menu {
+	line-height:2em;
+	margin:0;
+	max-width:10em;
+	padding:2%;
+	}
+#ports{
+	left:25%;
+	line-height:3em;
+	text-align: center;
+	max-width:10em;
+	padding:2%;
+    	}
+#splash-circle{
+	height:600px;
+	width:600px;
+	left:10%;
+	top:0%;
+	}
+nav a{
+	padding:1em;
+	}	
+	#why-us{
+	margin:0%;
+	padding:0%;
+	display:none;
+	}
+#community{
+	margin:0%;
+	padding:0%;
+	display:none;
+	} 
+#our-services{
+	margin:auto;
+	padding:0%;
+	display:none;
+	}
+.services{
+	margin:0%;
+	padding:0%;
+	display:none;
+	}
+}
