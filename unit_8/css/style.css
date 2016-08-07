@@ -184,7 +184,8 @@ figure{
 	float:none;
 	}
 .page{
-	max-width:45em;
+	max-width:auto;
+	margin:auto;
 	}
 }
 @media only screen and (max-width: 320px){
