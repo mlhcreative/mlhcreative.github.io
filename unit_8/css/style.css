@@ -158,14 +158,6 @@ footer{
     height: 0;
 }
 @media only screen and (min-width: 320px) and (max-width:768px){
-header{
-	margin:0%;
-	padding:2%;
-	position:static;
-	}
-#why-nav, #blog-nav{
-	display:none;
-	}
 section#splash {
 	background-image: none;
 	font-weight: 400;
