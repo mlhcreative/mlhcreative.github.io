@@ -161,6 +161,17 @@ footer{
 section#splash {
 	background-image: none;
 }
+#splash-circle{
+	background-image: url("../images/Sculpturebysea.png");
+	border-radius:50%;
+	position: absolute;
+	height:50vw;
+	width: 50vw;
+	left:25%;
+	top: 2.5%;
+	z-index: -2;
+}
+}
 figure{
 	float: none;
 	width: 45em;
