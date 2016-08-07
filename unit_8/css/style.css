@@ -158,6 +158,7 @@ footer{
 }
 @media only screen and (min-width: 320px) and (max-width:768px){
 figure{
+	float: none;
 	width: 45em;
 }
 #left{
