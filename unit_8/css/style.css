@@ -166,12 +166,6 @@ header{
 #why-nav, #blog-nav{
 	display:none;
 	}
-.main-menu {
-	line-height:2em;
-	margin:0;
-	max-width:10em;
-	padding:2%;
-	}
 section#splash {
 	background-image: none;
 	font-weight: 400;
