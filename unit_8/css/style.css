@@ -201,7 +201,7 @@ header{
 	top: 95%;
 	left:50%;
 	}
-#why-nav,{
+#why-nav,#why-us, #community, #our-services, .services{
 	display:none;
 }
 .main-menu {
@@ -220,11 +220,7 @@ nav a{
 #why-us{
 	margin:0%;
 	padding:0%;
-	display:none;
 	}
-#portfolio{
-	display:none;
-}
 #ports{
 	left:25%;
 	line-height:3em;
@@ -236,16 +232,13 @@ nav a{
 #community{
 	margin:0%;
 	padding:0%;
-	display:none;
 	} 
 #our-services{
 	margin:auto;
 	padding:0%;
-	display:none;
 	}
 .services{
 	margin:0%;
 	padding:0%;
-	display:none;
 	}
 }
