@@ -172,7 +172,7 @@ section#splash {
 	z-index: -2;
 	}
 .splash-info{
-	background:#000000;
+	background:rgba(0, 0, 0, .50);
 	color:#E6F3FF;
 	display:inline-block;
 	padding:1em 2em;
