@@ -165,10 +165,10 @@ section#splash {
 	background-image: url("../images/Sculpturebysea.png");
 	border-radius:50%;
 	position: absolute;
-	height:50vw;
-	width: 50vw;
+	height:500px;
+	width: 500px;
 	left:25%;
-	top: 25%;
+	top: 30%;
 	z-index: -2;
 }
 }
