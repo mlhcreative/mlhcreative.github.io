@@ -163,9 +163,9 @@ header{
 	padding:2%;
 	position:static;
 	}
-	#why-nav, #blog-nav{
+#why-nav, #blog-nav{
 	display:none;
-}
+	}
 .main-menu {
 	line-height:2em;
 	margin:0;
