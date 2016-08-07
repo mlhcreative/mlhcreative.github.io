@@ -188,6 +188,7 @@ figure{
 header{
 	margin:0%;
 	padding:2%;
+	max-width:100%
 	position:static;
 	}
 #splash{
