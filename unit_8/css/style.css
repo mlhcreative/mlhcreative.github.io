@@ -206,13 +206,6 @@ header{
 	max-width:10em;
 	padding:2%;
 	}
-#ports{
-	left:25%;
-	line-height:3em;
-	text-align: center;
-	max-width:10em;
-	padding:2%;
-    	}
 #splash-circle{
 	height:600px;
 	width:600px;
@@ -227,6 +220,17 @@ nav a{
 	padding:0%;
 	display:none;
 	}
+#portfolio{
+	display:none;
+}
+#ports{
+	left:25%;
+	line-height:3em;
+	text-align: center;
+	max-width:10em;
+	padding:2%;
+	display:none;
+    	}
 #community{
 	margin:0%;
 	padding:0%;
