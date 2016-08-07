@@ -108,6 +108,8 @@ nav{
 	max-width:45em;
 	margin:auto;
 	padding:0em 2em 5em 2em;
+	clear: both;
+	position: relative;
 }
 #our-services{
 	padding:10em 2em 0em 2em;
@@ -157,6 +159,14 @@ footer{
     height: 0;
 }
 @media only screen and (min-width: 320px) and (max-width:768px){
+#blog{
+	max-width: 45em;
+	margin: auto;
+	padding:10em 2em 5em 2em;
+	clear: both;
+	position: relative;
+	}	
+}
 figure{
 	float: none;
 	width: 45em;
