@@ -171,7 +171,7 @@ footer{
 header{
 	margin:0%;
 	padding:2%;
-	position:relative;
+	position:static;
 	}
 section#splash {
 	background-image: none;
@@ -194,7 +194,7 @@ section#splash {
 	}
 #why-nav,#why-us, #community{
 	display:none;
-}
+	}
 #why-us{
 	margin:0%;
 	padding:0%;
@@ -230,9 +230,11 @@ nav a{
 	}
 #why-nav{
 	display:none;
+	visibility: none;
 }
 #why-us{
 	display:none;
+	visibility:none;
 }
 #community{
 	display:none;
