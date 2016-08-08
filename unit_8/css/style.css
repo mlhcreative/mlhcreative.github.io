@@ -40,7 +40,7 @@ header{
  	margin:1.5em;
 	padding: 3% 0% 0% 0%;
 	text-align: right;
-	max-width: 50em;
+	max-width: 40em;
 }
 section#splash {
 	background-image: url("../images/Sculpturebysea.png");
@@ -172,6 +172,12 @@ section#splash {
 	top: 30%;
 	z-index: -2;
 	}
+.main-menu {
+	line-height:2em;
+	margin:0;
+	max-width:10em;
+	padding:2%;
+	}
 figure{
 	float: none;
 	width: 45em;
@@ -204,12 +210,6 @@ header{
 #why-nav,#why-us, #community, #our-services, .services{
 	display:none;
 }
-.main-menu {
-	line-height:2em;
-	margin:0;
-	max-width:10em;
-	padding:2%;
-	}
 #splash-circle{
 	height:550px;
 	width:550px;
