@@ -172,12 +172,6 @@ section#splash {
 	top: 30%;
 	z-index: -2;
 	}
-.main-menu {
-	line-height:2em;
-	margin:0;
-	max-width:10em;
-	padding:2%;
-	}
 figure{
 	float: none;
 	width: 45em;
@@ -216,7 +210,13 @@ header{
 	}
 nav a{
 	padding:1em;
-	}	
+	}
+.main-menu {
+	line-height:2em;
+	margin:0;
+	max-width:40em;
+	padding:2%;
+	}
 #why-us{
 	margin:0%;
 	padding:0%;
