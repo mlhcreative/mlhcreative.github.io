@@ -167,7 +167,7 @@ footer{
     clear: both;
     height: 0;
 }
-@media only screen and (min-width: 320px) and (max-width:768px){
+@media only screen and (min-width: 320px) and (max-width:767px){
 header{
 	margin:0%;
 	padding:2%;
@@ -181,7 +181,7 @@ section#splash {
 	display:visible;
 	left:0%;
 	top: 0%;
-}
+	}
 .main-menu {
 	line-height:2em;
 	margin:0%;
@@ -206,7 +206,7 @@ section#splash {
 figure{
 	float: none;
 	width: 45em;
-}
+	}
 #left{
 	float:none;
 	width:auto;
@@ -231,14 +231,14 @@ nav a{
 #why-nav{
 	display:none;
 	visibility: none;
-}
+	}
 #why-us{
 	display:none;
 	visibility:none;
-}
+	}
 #community{
 	display:none;
-}
+	}
 #splash-circle{
 	height:500px;
 	width:50px;
@@ -251,5 +251,8 @@ nav a{
 	}
 .services{
 	display: none;
+	}
+figure{
+	left:0%;
 	}
 }
