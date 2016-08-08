@@ -182,7 +182,22 @@ section#splash {
 	margin:0;
 	max-width:10em;
 	padding:2%;
-	}	
+	}
+.page{
+	max-width:auto;
+	margin:auto;
+	}
+#why-nav,#why-us, #community{
+	display:none;
+}
+#why-us{
+	margin:0%;
+	padding:0%;
+	}
+#community{
+	margin:0%;
+	padding:0%;
+	} 
 figure{
 	float: none;
 	width: 45em;
@@ -193,10 +208,6 @@ figure{
 	}
 #right{
 	float:none;
-	}
-.page{
-	max-width:auto;
-	margin:auto;
 	}
 nav a{
 	padding:1em;
@@ -219,22 +230,9 @@ nav a{
 	height:550px;
 	width:550px;
 	}
-#why-us{
-	margin:0%;
-	padding:0%;
-	}
 #ports{
-	left:25%;
-	line-height:3em;
-	text-align: center;
-	max-width:10em;
-	padding:2%;
 	display:none;
     	}
-#community{
-	margin:0%;
-	padding:0%;
-	} 
 #our-services{
 	margin:auto;
 	padding:0%;
