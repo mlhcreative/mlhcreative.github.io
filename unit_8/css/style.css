@@ -161,7 +161,7 @@ footer{
 header{
 	margin:0%;
 	padding:2%;
-	position:static;
+	position:relative;
 	}
 section#splash {
 	background-image: none;
@@ -223,22 +223,26 @@ nav a{
 	top: 95%;
 	left:50%;
 	}
-#why-nav,#why-us, #community, #our-services, .services{
+#why-nav{
+	display:none;
+}
+#why-us{
+	display:none;
+}
+#community{
 	display:none;
 }
 #splash-circle{
-	height:550px;
-	width:550px;
+	height:500px;
+	width:50px;
 	}
-#ports{
+#portfolio{
 	display:none;
     	}
 #our-services{
-	margin:auto;
-	padding:0%;
+	display:none;
 	}
 .services{
-	margin:0%;
-	padding:0%;
+	display: none;
 	}
 }
