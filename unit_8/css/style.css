@@ -218,7 +218,7 @@ body{
 	width:auto;
 	}
 }
-@media only screen and (max-width:320px){
+@media only screen and (min-width:320px){
 nav a{
 	padding:1em;
 	}
