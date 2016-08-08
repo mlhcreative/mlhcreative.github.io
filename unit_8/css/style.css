@@ -188,11 +188,11 @@ figure{
 	margin:auto;
 	}
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width:320px){
 header{
 	margin:0%;
 	padding:2%;
-	max-width:100%
+	max-width:auto;
 	position:static;
 	}
 #splash{
