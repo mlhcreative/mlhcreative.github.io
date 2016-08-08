@@ -178,7 +178,9 @@ section#splash {
 	font-weight: 400;
 	}
 #splash-circle{
-	display:visible;	
+	display:visible;
+	left:0%;
+	top: 0%;
 }
 .main-menu {
 	line-height:2em;
