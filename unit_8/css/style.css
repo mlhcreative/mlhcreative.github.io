@@ -205,19 +205,7 @@ header{
 	max-width:10em;
 	padding:2%;
     	}
-#why-us{
-	display:none;
-	}
-#community{
-	display:none;
-	} 
-#our-services{
-	display:none;
-	}
-#blog, #two-columns{
-	display:none;
-	}
-.services{
+#why-us, #blog, #two-columns, .services, #our-services, #community{
 	display:none;
 	}
 nav a{
@@ -246,18 +234,6 @@ nav a{
 	#why-us{
 	display:none;
 	}
-#community{
-	display:none;
-	} 
-#our-services{
-	display:none;
-	}
-#blog, #two-columns{
-	display:none;
-	}
-.services{
-	display:none;
-	}
 }
 @media only screen and (min-width:375px) and (max-width:425px){
 #splash-circle{
@@ -265,20 +241,5 @@ nav a{
 	width:500px;
 	left:-11%;
 	top:-2%;
-	}
-#why-us{
-	display:none;
-	}
-#community{
-	display:none;
-	} 
-#our-services{
-	display:none;
-	}
-#blog, #two-columns{
-	display:none;
-	}
-.services{
-	display:none;
 	}
 }
