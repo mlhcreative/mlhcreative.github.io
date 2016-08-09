@@ -137,16 +137,16 @@ figure{
 	text-align: center;
 	margin:1%;
 	padding: 1%;
-	width: 50%;
+	width: 45%;
 }
 #left{
 	float:left;
-	width: 45%;
+	width: 40%;
 }
 #right{
 	float:right;
 	padding:1%;
-	width: 50%;
+	width: 55%;
 }
 #contact-us{
 	text-align: center;
