@@ -170,16 +170,13 @@ footer{
 @media only screen and (min-width:320px) and (max-width:767px){
 header{
 	margin:0%;
-	padding:2%;
+	padding:0%;
 	position:static;
 	}
 #splash {
-	display: none;
+	background-image: none;
 	font-weight: 400;
 	}
-.splash-info{
-	visibility: visible;
-}
 #splash-circle{
 	visibility:visible;
 	height:600px;
@@ -198,7 +195,8 @@ header{
 	line-height:2em;
 	margin:0;
 	max-width:10em;
-	padding:2%;
+	padding:0%;
+	margin:1.5em;
 	}
 #ports{
 	left:25%;
@@ -208,28 +206,18 @@ header{
 	padding:2%;
     	}
 #why-us{
-	margin:0%;
-	padding:0%;
 	display:none;
 	}
 #community{
-	margin:0%;
-	padding:0%;
 	display:none;
 	} 
 #our-services{
-	margin:auto;
-	padding:0%;
 	display:none;
 	}
-#blog{
-	margin:0%;
-	padding:0%;
+#blog, #two-columns{
 	display:none;
 	}
 .services{
-	margin:0%;
-	padding:0%;
 	display:none;
 	}
 nav a{
@@ -255,6 +243,21 @@ nav a{
 	left:10%;
 	top:0%;
 	}
+	#why-us{
+	display:none;
+	}
+#community{
+	display:none;
+	} 
+#our-services{
+	display:none;
+	}
+#blog, #two-columns{
+	display:none;
+	}
+.services{
+	display:none;
+	}
 }
 @media only screen and (min-width:375px) and (max-width:425px){
 #splash-circle{
@@ -262,5 +265,20 @@ nav a{
 	width:500px;
 	left:-11%;
 	top:-2%;
+	}
+#why-us{
+	display:none;
+	}
+#community{
+	display:none;
+	} 
+#our-services{
+	display:none;
+	}
+#blog, #two-columns{
+	display:none;
+	}
+.services{
+	display:none;
 	}
 }
