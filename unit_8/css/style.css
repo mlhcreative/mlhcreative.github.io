@@ -167,4 +167,104 @@ footer{
     clear: both;
     height: 0;
 }
-
+@media only screen and (min-width:320px) and (max-width:767px){
+header{
+	margin:0%;
+	padding:2%;
+	position:static;
+	}
+#splash {
+	background-image: hidden;
+	font-weight: 400;
+	}
+#splash-circle{
+	visibility:visible;
+	height:600px;
+	width:600px;
+	left:21%;
+	}
+#splash{
+	top:100%;
+	padding: 50% 0 0;
+	max-width: auto;
+	}
+#why-nav, #blog-nav{
+	display:none;
+}
+.main-menu {
+	line-height:2em;
+	margin:0;
+	max-width:10em;
+	padding:2%;
+	}
+#ports{
+	left:25%;
+	line-height:3em;
+	text-align: center;
+	max-width:10em;
+	padding:2%;
+    	}
+#why-us{
+	margin:0%;
+	padding:0%;
+	display:none;
+	}
+#community{
+	margin:0%;
+	padding:0%;
+	display:none;
+	} 
+#our-services{
+	margin:auto;
+	padding:0%;
+	display:none;
+	}
+#blog{
+	margin:0%;
+	padding:0%;
+	display:none;
+	}
+.services{
+	margin:0%;
+	padding:0%;
+	display:none;
+	}
+nav a{
+	padding:1em;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:1024px){
+nav a{
+	padding:1em;
+	}
+#splash-circle{
+	left:21%;
+	}
+#ports{
+	margin:auto;
+	}
+#splash{
+	margin: 50% 0 10% 0;
+	max-width: auto;
+	}
+}
+@media only screen and (min-width:425px) and (max-width:768px){
+#splash{
+	top: 95%;
+	max-width: auto;
+	}
+#splash-circle{
+	height:600px;
+	width:600px;
+	left:10%;
+	top:0%;
+	}
+}
+@media only screen and (min-width:375px) and (max-width:425px){
+#splash-circle{
+	height:500px;
+	width:500px;
+	left:-11%;
+	top:-2%;
+	}
+}
