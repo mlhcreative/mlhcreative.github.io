@@ -177,7 +177,7 @@ header{
 	position:static;
 	}
 #splash{
-	visibility: collapse;
+	background-image:none;
 }
 .splash-info{
 	top:100%;
