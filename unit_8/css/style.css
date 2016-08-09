@@ -174,7 +174,7 @@ header{
 	position:static;
 	}
 #splash {
-	background-image: none;
+	display: none;
 	font-weight: 400;
 	}
 #splash-circle{
@@ -183,7 +183,7 @@ header{
 	width:600px;
 	left:21%;
 	}
-#splash{
+.splash-info{
 	top:100%;
 	padding: 50% 0 0;
 	max-width: auto;
