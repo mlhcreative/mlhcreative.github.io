@@ -174,7 +174,7 @@ header{
 	position:static;
 	}
 #splash {
-	background-image: hidden;
+	background-image: none;
 	font-weight: 400;
 	}
 #splash-circle{
