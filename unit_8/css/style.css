@@ -237,15 +237,8 @@ nav a{
 nav a{
 	padding:1em;
 	}
-#splash-circle{
-	left:21%;
-	}
 #ports{
 	margin:auto;
-	}
-#splash{
-	margin: 50% 0 10% 0;
-	max-width: auto;
 	}
 }
 @media only screen and (min-width:425px) and (max-width:768px){
