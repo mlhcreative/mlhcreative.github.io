@@ -147,6 +147,7 @@ figure{
 }
 footer{
   	background: #fff;
+  	text-align: center;
 }
 section, footer, nav{
 	display: block;
