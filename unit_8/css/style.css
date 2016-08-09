@@ -174,9 +174,12 @@ header{
 	position:static;
 	}
 #splash {
-	background-image: none;
+	display: none;
 	font-weight: 400;
 	}
+.splash-info{
+	visibility: visible;
+}
 #splash-circle{
 	visibility:visible;
 	height:600px;
