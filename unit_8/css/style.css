@@ -144,10 +144,12 @@ figure{
 	top:25%;
 	bottom: 5%;
 	padding:15em 2em 20em 2em;
+	text-align: center;
 }
 footer{
   	background: #fff;
   	text-align: center;
+  	padding:1%;
 }
 section, footer, nav{
 	display: block;
