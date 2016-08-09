@@ -141,12 +141,12 @@ figure{
 }
 #left{
 	float:left;
-	width: 35%;
+	width: 45%;
 }
 #right{
 	float:right;
 	padding:1%;
-	width: 60%;
+	width: 50%;
 }
 #contact-us{
 	text-align: center;
